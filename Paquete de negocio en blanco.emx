@@ -2,7 +2,7 @@
 <!--xtools2_universal_type_manager-->
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
-<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_j_u5sBEiEemxLotT9O7ykQ" name="1. Requisitos">
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_j_u5sBEiEemxLotT9O7ykQ" name="1. Requisitos">
   <eAnnotations xmi:id="_j_u5sREiEemxLotT9O7ykQ" source="uml2.diagrams"/>
   <eAnnotations xmi:id="_j_u5sxEiEemxLotT9O7ykQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
     <details xmi:id="_j_u5tBEiEemxLotT9O7ykQ" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
@@ -362,39 +362,19 @@
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_9LenUBV-Eemdzcg4iB1xRA" name="Diseño">
-      <eAnnotations xmi:id="_9LfOYBV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="_9LfOYRV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_9LfOYRV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_9LfOYBV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_-V_SoBV-Eemdzcg4iB1xRA" name="PedidoImpresion">
-      <eAnnotations xmi:id="_-V_5sBV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="_-V_5sRV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-V_5sRV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_-V_5sBV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="__fkw4BV-Eemdzcg4iB1xRA" name="Impresora">
-      <eAnnotations xmi:id="__flX8BV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="__flX8RV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="__flX8RV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="__flX8BV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_Af5lcBV_Eemdzcg4iB1xRA" name="Usuario">
-      <eAnnotations xmi:id="_Af6MgBV_Eemdzcg4iB1xRA" source="uml2.diagrams" references="_Af6MgRV_Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Af6MgRV_Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_Af6MgBV_Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_Bj1usBV_Eemdzcg4iB1xRA" name="Plataforma">
-      <eAnnotations xmi:id="_Bj2VwBV_Eemdzcg4iB1xRA" source="uml2.diagrams" references="_Bj2VwRV_Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Bj2VwRV_Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_Bj2VwBV_Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_vzv9gBEmEemxLotT9O7ykQ" name="Diagrama de actividades">
@@ -2976,32 +2956,16 @@
       </eAnnotations>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_m13QMBV-Eemdzcg4iB1xRA" name="Diseño">
-      <eAnnotations xmi:id="_m15FYBV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="_m15FYRV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_m15FYRV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_m15FYBV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_n_TkgBV-Eemdzcg4iB1xRA" name="Usuario">
-      <eAnnotations xmi:id="_n_TkgRV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="_n_TkghV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_n_TkghV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_n_TkgRV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_qEB1UBV-Eemdzcg4iB1xRA" name="Plataforma">
-      <eAnnotations xmi:id="_qEB1URV-Eemdzcg4iB1xRA" source="uml2.diagrams" references="_qEB1UhV-Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_qEB1UhV-Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_qEB1URV-Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_EJHH0BV_Eemdzcg4iB1xRA" name="Impresora">
-      <eAnnotations xmi:id="_EJHH0RV_Eemdzcg4iB1xRA" source="uml2.diagrams" references="_EJHH0hV_Eemdzcg4iB1xRA">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_EJHH0hV_Eemdzcg4iB1xRA" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_EJHH0RV_Eemdzcg4iB1xRA" source="uml2.diagrams"/>
     </packagedElement>
   </packagedElement>
   <profileApplication xmi:id="_j_u5yBEiEemxLotT9O7ykQ">
