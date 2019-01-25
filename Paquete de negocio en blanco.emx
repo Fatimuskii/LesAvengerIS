@@ -3,7 +3,511 @@
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_j_u5sBEiEemxLotT9O7ykQ" name="1. Requisitos">
-  <eAnnotations xmi:id="_j_u5sREiEemxLotT9O7ykQ" source="uml2.diagrams"/>
+  <eAnnotations xmi:id="_j_u5sREiEemxLotT9O7ykQ" source="uml2.diagrams">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_J2QT4CDPEema5YFEsr33wA" type="Freeform" name="Modelo de Dominio">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QT4SDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QT4iDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QT4yDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT5CDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT5SDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT5iDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT5yDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT6CDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT6SDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QT6iDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT6yDPEema5YFEsr33wA" type="TemplateCompartment">
+          <element xmi:type="uml:RedefinableTemplateSignature" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_qyaT0BUGEemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/%3CRedefinableTemplateSignature%3E?"/>
+        </children>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_cHcDQBT9Eemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QT7CDPEema5YFEsr33wA" x="9636" y="6468"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QT7SDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QT7iDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QT7yDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT8CDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT8SDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT8iDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT8yDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT9CDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT9SDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QT9iDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_gplYwBT9Eemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QT9yDPEema5YFEsr33wA" x="10956" y="12540"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QT-CDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QT-SDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QT-iDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT-yDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT_CDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QT_SDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT_iDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QT_yDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUACDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QUASDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_IPwC8BUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUAiDPEema5YFEsr33wA" x="6477" y="12258"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QUAyDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUBCDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QUBSDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUBiDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUByDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUCCDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUCSDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUCiDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUCyDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QUDCDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_Ox0BwBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Pedido%20Impresion?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUDSDPEema5YFEsr33wA" x="19404" y="7392"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QUDiDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUDyDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QUECDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUESDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUEiDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUEyDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUFCDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUFSDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUFiDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QUFyDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_P5CIgBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Local?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUGCDPEema5YFEsr33wA" x="24765" y="7112"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QUGSDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUGiDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QUGyDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUHCDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUHSDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUHiDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUHyDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUICDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUISDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QUIiDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_DS4AECDHEema5YFEsr33wA?Paquete%20en%20blanco/Plataforma?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUIyDPEema5YFEsr33wA" x="3175" y="8128"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QUJCDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUJSDPEema5YFEsr33wA" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QUJiDPEema5YFEsr33wA" width="1320" height="1320"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUJyDPEema5YFEsr33wA" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUKCDPEema5YFEsr33wA" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUKSDPEema5YFEsr33wA" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUKiDPEema5YFEsr33wA" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUKyDPEema5YFEsr33wA" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QULCDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_J2QULSDPEema5YFEsr33wA" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_k_BDMCDKEema5YFEsr33wA?Paquete%20en%20blanco/Facturacion?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QULiDPEema5YFEsr33wA" x="2404" y="10888" width="2620"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QULyDPEema5YFEsr33wA" source="_J2QT4SDPEema5YFEsr33wA" target="_J2QT7SDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUMCDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUMSDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUMiDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUMyDPEema5YFEsr33wA" x="367" y="-23"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUNCDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUNSDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEt50BT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUNiDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUNyDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUOCDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEt50BT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUOSDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUOiDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUOyDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEsEoBT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUPCDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUPSDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUPiDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEsEoBT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUPyDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUQCDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUQSDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEt50BT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUQiDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUQyDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QURCDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEsEoBT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QURSDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QURiDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QURyDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEt50BT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUSCDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUSSDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUSiDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mEsEoBT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUSyDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_mErdkBT_Eemdzcg4iB1xRA?Paquete%20en%20blanco/%3Cregistra%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QUTCDPEema5YFEsr33wA" points="[40, -7, -265, -9]$[258, -7, -47, -9]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QUTSDPEema5YFEsr33wA" source="_J2QT4SDPEema5YFEsr33wA" target="_J2QT-CDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUTiDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUTyDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUUCDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUUSDPEema5YFEsr33wA" x="196" y="-331"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUUiDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUUyDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3xP0BUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUVCDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUVSDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUViDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3xP0BUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUVyDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUWCDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUWSDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3wBsBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUWiDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUWyDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUXCDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3wBsBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUXSDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUXiDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUXyDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3xP0BUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUYCDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUYSDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUYiDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3wBsBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUYyDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUZCDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUZSDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3xP0BUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUZiDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUZyDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUaCDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3wBsBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Usuario/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUaSDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_c3uzkBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csube%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QUaiDPEema5YFEsr33wA" points="[61, 27, -221, -102]$[277, 105, -5, -24]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QUayDPEema5YFEsr33wA" source="_J2QUDiDPEema5YFEsr33wA" target="_J2QUAyDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUbCDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUbSDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUbiDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUbyDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUcCDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUcSDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntGaoBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Pedido%20Impresion/local?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUciDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUcyDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUdCDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntGaoBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Pedido%20Impresion/local?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUdSDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUdiDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUdyDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntElcBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Local/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUeCDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUeSDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUeiDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntElcBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Local/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUeyDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUfCDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUfSDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntGaoBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Pedido%20Impresion/local?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUfiDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUfyDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUgCDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntElcBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Local/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUgSDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUgiDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUgyDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntGaoBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Pedido%20Impresion/local?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUhCDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUhSDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUhiDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntElcBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/Local/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUhyDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ntDXUBUEEemdzcg4iB1xRA?Paquete%20en%20blanco/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QUiCDPEema5YFEsr33wA" points="[34, -5, -181, 30]$[280, -39, 65, -4]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QUiSDPEema5YFEsr33wA" source="_J2QT4SDPEema5YFEsr33wA" target="_J2QUAyDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUiiDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUiyDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2TG8BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUjCDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUjSDPEema5YFEsr33wA" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUjiDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2TG8BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUjyDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUkCDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUkSDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2Sf4BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUkiDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUkyDPEema5YFEsr33wA" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUlCDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2Sf4BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUlSDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUliDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUlyDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2TG8BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUmCDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUmSDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUmiDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2Sf4BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUmyDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUnCDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUnSDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2TG8BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUniDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUnyDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUoCDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2Sf4BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUoSDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="umlnotation:UMLShape" xmi:id="_J2QUoiDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+          <children xmi:type="notation:DecorationNode" xmi:id="_J2QUoyDPEema5YFEsr33wA" type="ImageCompartment">
+            <layoutConstraint xmi:type="notation:Size" xmi:id="_J2QUpCDPEema5YFEsr33wA" width="1320" height="1320"/>
+          </children>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUpSDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUpiDPEema5YFEsr33wA" type="Name"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUpyDPEema5YFEsr33wA" type="Parent"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUqCDPEema5YFEsr33wA" type="AttributeCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUqSDPEema5YFEsr33wA" type="OperationCompartment"/>
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUqiDPEema5YFEsr33wA" visible="false" type="SignalCompartment"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUqyDPEema5YFEsr33wA" x="-49" y="851"/>
+        </children>
+        <element xmi:type="uml:AssociationClass" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_i2R40BUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QUrCDPEema5YFEsr33wA" points="[2373, 345, -6780, 454]$[7395, 345, -1758, 454]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QUrSDPEema5YFEsr33wA" source="_J2QT7SDPEema5YFEsr33wA" target="_J2QUoiDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUriDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUryDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUsCDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUsSDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUsiDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUsyDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1KugkhUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUtCDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUtSDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUtiDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1KugkhUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUtyDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUuCDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUuSDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1Kt5gBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUuiDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUuyDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUvCDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1Kt5gBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUvSDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUviDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUvyDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1KugkhUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUwCDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUwSDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QUwiDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1Kt5gBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUwyDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUxCDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUxSDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1KugkhUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/impresora?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUxiDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUxyDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QUyCDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1Kt5gBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Impresora/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QUySDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_1KtScBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QUyiDPEema5YFEsr33wA" points="[47, -5, -291, 33]$[403, -40, 65, -2]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QUyyDPEema5YFEsr33wA" source="_J2QT-CDPEema5YFEsr33wA" target="_J2QUoiDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QUzCDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUzSDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QUziDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QUzyDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU0CDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU0SDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5GHwBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU0iDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU0yDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU1CDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5GHwBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU1SDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU1iDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU1yDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5E5oBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU2CDPEema5YFEsr33wA" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU2SDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU2iDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5E5oBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU2yDPEema5YFEsr33wA" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU3CDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QU3SDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5GHwBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU3iDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU3yDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QU4CDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5E5oBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU4SDPEema5YFEsr33wA" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU4iDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QU4yDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5GHwBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3Csolicita%3E/diseño?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU5CDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU5SDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QU5iDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5E5oBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/Diseño/pedidoImpresion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU5yDPEema5YFEsr33wA" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#__5ESkBUIEemdzcg4iB1xRA?Paquete%20en%20blanco/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QU6CDPEema5YFEsr33wA" points="[1282, 1710, -7603, 4894]$[8924, 1710, 39, 4894]$[8924, -2550, 39, 634]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QU6SDPEema5YFEsr33wA" source="_J2QUGSDPEema5YFEsr33wA" target="_J2QT4SDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU6iDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU6yDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU7CDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QU7SDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU7iDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU7yDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVIdcCDHEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/plataforma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU8CDPEema5YFEsr33wA" y="317"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU8SDPEema5YFEsr33wA" visible="false" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU8iDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVIdcCDHEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/plataforma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU8yDPEema5YFEsr33wA" y="-318"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU9CDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU9SDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVHPUCDHEema5YFEsr33wA?Paquete%20en%20blanco/Plataforma/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU9iDPEema5YFEsr33wA" y="317"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU9yDPEema5YFEsr33wA" visible="false" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QU-CDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVHPUCDHEema5YFEsr33wA?Paquete%20en%20blanco/Plataforma/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU-SDPEema5YFEsr33wA" y="-318"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU-iDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QU-yDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVIdcCDHEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/plataforma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU_CDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QU_SDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QU_iDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVHPUCDHEema5YFEsr33wA?Paquete%20en%20blanco/Plataforma/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QU_yDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVACDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QVASDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVIdcCDHEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/plataforma?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVAiDPEema5YFEsr33wA" y="846"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVAyDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QVBCDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVHPUCDHEema5YFEsr33wA?Paquete%20en%20blanco/Plataforma/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVBSDPEema5YFEsr33wA" y="846"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_JVFaICDHEema5YFEsr33wA?Paquete%20en%20blanco/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QVBiDPEema5YFEsr33wA" points="[82, -17, -426, 35]$[358, -97, -150, -45]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_J2QVByDPEema5YFEsr33wA" source="_J2QUJCDPEema5YFEsr33wA" target="_J2QT4SDPEema5YFEsr33wA" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVCCDPEema5YFEsr33wA" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVCSDPEema5YFEsr33wA" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVCiDPEema5YFEsr33wA" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_J2QVCyDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVDCDPEema5YFEsr33wA" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVDSDPEema5YFEsr33wA" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQyDKEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/facturacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVDiDPEema5YFEsr33wA" y="317"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVDyDPEema5YFEsr33wA" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVECDPEema5YFEsr33wA" type="ToRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQyDKEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/facturacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVESDPEema5YFEsr33wA" y="-318"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVEiDPEema5YFEsr33wA" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVEyDPEema5YFEsr33wA" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQCDKEema5YFEsr33wA?Paquete%20en%20blanco/Facturacion/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVFCDPEema5YFEsr33wA" y="317"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVFSDPEema5YFEsr33wA" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_J2QVFiDPEema5YFEsr33wA" type="FromRole"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQCDKEema5YFEsr33wA?Paquete%20en%20blanco/Facturacion/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVFyDPEema5YFEsr33wA" y="-318"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVGCDPEema5YFEsr33wA" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QVGSDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQyDKEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/facturacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVGiDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVGyDPEema5YFEsr33wA" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_J2QVHCDPEema5YFEsr33wA" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQCDKEema5YFEsr33wA?Paquete%20en%20blanco/Facturacion/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVHSDPEema5YFEsr33wA" y="-149"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVHiDPEema5YFEsr33wA" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QVHyDPEema5YFEsr33wA" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQyDKEema5YFEsr33wA?Paquete%20en%20blanco/Usuario/facturacion?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVICDPEema5YFEsr33wA" y="846"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_J2QVISDPEema5YFEsr33wA" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_J2QVIiDPEema5YFEsr33wA" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozKqQCDKEema5YFEsr33wA?Paquete%20en%20blanco/Facturacion/usuario?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_J2QVIyDPEema5YFEsr33wA" y="846"/>
+        </children>
+        <element xmi:type="uml:Association" href="platform:/resource/LesAvengerISFa/Paquete%20en%20blanco.emx#_ozD8kCDKEema5YFEsr33wA?Paquete%20en%20blanco/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_J2QVJCDPEema5YFEsr33wA" points="[70, -25, -412, 110]$[358, -198, -124, -63]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
   <eAnnotations xmi:id="_j_u5sxEiEemxLotT9O7ykQ" source="com.ibm.xtools.common.ui.reduction.editingCapabilities">
     <details xmi:id="_j_u5tBEiEemxLotT9O7ykQ" key="com.ibm.xtools.activities.umlBBStructureDiagram" value="1"/>
     <details xmi:id="_j_u5tREiEemxLotT9O7ykQ" key="com.ibm.xtools.activities.umlBBUseCase2" value="1"/>
