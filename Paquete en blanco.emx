@@ -1788,11 +1788,7 @@
       <eAnnotations xmi:id="_UbhE0T_8EemSJcbjC7l8Zg" source="uml2.diagrams"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_WDhkcD_8EemSJcbjC7l8Zg" name="Diseño">
-      <eAnnotations xmi:id="_WDquYD_8EemSJcbjC7l8Zg" source="uml2.diagrams" references="_WDquYT_8EemSJcbjC7l8Zg">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_WDquYT_8EemSJcbjC7l8Zg" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_WDquYD_8EemSJcbjC7l8Zg" source="uml2.diagrams"/>
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_pRn54CFkEemiY5rW4Hao8g" name="Diagrama de actividades">
@@ -11103,11 +11099,7 @@
       <packagedElement xmi:type="uml:Association" xmi:id="_XGbcAEA1EemoVcW2dLhxNA" memberEnd="_XGlNAEA1EemoVcW2dLhxNA _XHxf0EA1EemoVcW2dLhxNA"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_KqI9cEAUEemkRq9kYeOc-A" name="Usuario">
-      <eAnnotations xmi:id="_Kqgw4EAUEemkRq9kYeOc-A" source="uml2.diagrams" references="_Kqgw4UAUEemkRq9kYeOc-A">
-        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Kqgw4UAUEemkRq9kYeOc-A" type="Freeform" name="Principal">
-          <element xsi:nil="true"/>
-        </contents>
-      </eAnnotations>
+      <eAnnotations xmi:id="_Kqgw4EAUEemkRq9kYeOc-A" source="uml2.diagrams"/>
     </packagedElement>
   </packagedElement>
   <profileApplication xmi:id="_FxXtdCFkEemiY5rW4Hao8g">
