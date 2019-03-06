@@ -10156,6 +10156,13 @@
       </profileApplication>
     </packagedElement>
   </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_3cRaYEATEem5PLb26Lk5dQ" name="Diagrama de clases">
+    <eAnnotations xmi:id="_3eNUEEATEem5PLb26Lk5dQ" source="uml2.diagrams" references="_3eNUEUATEem5PLb26Lk5dQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_3eNUEUATEem5PLb26Lk5dQ" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
   <profileApplication xmi:id="_FxXtdCFkEemiY5rW4Hao8g">
     <eAnnotations xmi:id="_FxXtdSFkEemiY5rW4Hao8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
