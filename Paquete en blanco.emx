@@ -10593,11 +10593,53 @@
     </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_3cRaYEATEem5PLb26Lk5dQ" name="Diagrama de clases">
-    <eAnnotations xmi:id="_3eNUEEATEem5PLb26Lk5dQ" source="uml2.diagrams" references="_3eNUEUATEem5PLb26Lk5dQ">
-      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_3eNUEUATEem5PLb26Lk5dQ" type="Freeform" name="Principal">
-        <element xsi:nil="true"/>
-      </contents>
-    </eAnnotations>
+    <eAnnotations xmi:id="_3eNUEEATEem5PLb26Lk5dQ" source="uml2.diagrams"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_KfJ1cEAUEem5PLb26Lk5dQ" name="PedidoImpresion">
+      <eAnnotations xmi:id="_KfJ1cUAUEem5PLb26Lk5dQ" source="uml2.diagrams">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RjieMEAUEem5PLb26Lk5dQ" type="Class" name="PedidoImpresion">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_YZBvUEAUEem5PLb26Lk5dQ" element="_YX1cgEAUEem5PLb26Lk5dQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_YZBvUkAUEem5PLb26Lk5dQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_YZBvU0AUEem5PLb26Lk5dQ" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YZBvVEAUEem5PLb26Lk5dQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YZK5QEAUEem5PLb26Lk5dQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_YZK5QUAUEem5PLb26Lk5dQ" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_YZK5QkAUEem5PLb26Lk5dQ" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_YZK5Q0AUEem5PLb26Lk5dQ" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_YZxWMEAUEem5PLb26Lk5dQ" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_YZxWMUAUEem5PLb26Lk5dQ" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_YZBvUUAUEem5PLb26Lk5dQ" x="5053" y="3069"/>
+          </children>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:Class" xmi:id="_YX1cgEAUEem5PLb26Lk5dQ" name="PedidoImpresion">
+        <ownedAttribute xmi:id="_aKklcEAUEem5PLb26Lk5dQ" name="IdPedidoImpresion" visibility="private"/>
+      </packagedElement>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_7AU6gEAUEem5PLb26Lk5dQ" name="Local">
+      <eAnnotations xmi:id="_7AU6gUAUEem5PLb26Lk5dQ" source="uml2.diagrams">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_CY-jEEAVEem5PLb26Lk5dQ" type="Class" name="Local">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_Eo7McUAVEem5PLb26Lk5dQ" element="_Eo7McEAVEem5PLb26Lk5dQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_Eo7Mc0AVEem5PLb26Lk5dQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_Eo7MdEAVEem5PLb26Lk5dQ" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Eo7MdUAVEem5PLb26Lk5dQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Eo7MdkAVEem5PLb26Lk5dQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_Eo7Md0AVEem5PLb26Lk5dQ" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Eo7MeEAVEem5PLb26Lk5dQ" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Eo7MeUAVEem5PLb26Lk5dQ" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_Eo7MekAVEem5PLb26Lk5dQ" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_Eo7Me0AVEem5PLb26Lk5dQ" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Eo7MckAVEem5PLb26Lk5dQ" x="4074" y="2831"/>
+          </children>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:Class" xmi:id="_Eo7McEAVEem5PLb26Lk5dQ" name="Local">
+        <ownedAttribute xmi:id="_HPEIQEAVEem5PLb26Lk5dQ" name="atributo1" visibility="private"/>
+      </packagedElement>
+    </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_KqI9cEAUEemkRq9kYeOc-A" name="Usuario">
       <eAnnotations xmi:id="_Kqgw4EAUEemkRq9kYeOc-A" source="uml2.diagrams" references="_Kqgw4UAUEemkRq9kYeOc-A">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Kqgw4UAUEemkRq9kYeOc-A" type="Freeform" name="Principal">
