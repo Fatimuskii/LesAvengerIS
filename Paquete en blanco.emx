@@ -11102,6 +11102,55 @@
       <eAnnotations xmi:id="_Kqgw4EAUEemkRq9kYeOc-A" source="uml2.diagrams"/>
     </packagedElement>
   </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_RnW-YEQeEemk9fszZJ1_ig" name="Diagrama de secuencia">
+    <eAnnotations xmi:id="_RpvkAEQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_RpvkAUQeEemk9fszZJ1_ig">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_RpvkAUQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+    <packagedElement xmi:type="uml:Package" xmi:id="_eq_MwEQeEemk9fszZJ1_ig" name="Diseño">
+      <eAnnotations xmi:id="_eq_MwUQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_eq_MwkQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_eq_MwkQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_hKk0oEQeEemk9fszZJ1_ig" name="Impresora">
+      <eAnnotations xmi:id="_hKk0oUQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_hKk0okQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hKk0okQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_igQOIEQeEemk9fszZJ1_ig" name="Local">
+      <eAnnotations xmi:id="_igQOIUQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_igQOIkQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_igQOIkQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_jwH6kEQeEemk9fszZJ1_ig" name="PedidoImpresion">
+      <eAnnotations xmi:id="_jwRrkEQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_jwRrkUQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_jwRrkUQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_lBL50EQeEemk9fszZJ1_ig" name="Plataforma">
+      <eAnnotations xmi:id="_lBL50UQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_lBL50kQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_lBL50kQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Package" xmi:id="_mUU8sEQeEemk9fszZJ1_ig" name="Usuario">
+      <eAnnotations xmi:id="_mUetsEQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_mUetsUQeEemk9fszZJ1_ig">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_mUetsUQeEemk9fszZJ1_ig" type="Freeform" name="Principal">
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+    </packagedElement>
+  </packagedElement>
   <profileApplication xmi:id="_FxXtdCFkEemiY5rW4Hao8g">
     <eAnnotations xmi:id="_FxXtdSFkEemiY5rW4Hao8g" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
