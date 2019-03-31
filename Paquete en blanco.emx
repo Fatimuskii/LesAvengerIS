@@ -880,7 +880,7 @@
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Actor" xmi:id="_Wn5I4EAUEemkRq9kYeOc-A" name="Administrador"/>
-      <packagedElement xmi:type="uml:Actor" xmi:id="_b7_fwEAUEemkRq9kYeOc-A" name="Impresora"/>
+      <packagedElement xmi:type="uml:Actor" xmi:id="_b7_fwEAUEemkRq9kYeOc-A" name="Usuario"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_h4f6cEAUEemkRq9kYeOc-A" memberEnd="_h4qSgEAUEemkRq9kYeOc-A _h5OTMEAUEemkRq9kYeOc-A" navigableOwnedEnd="_h4qSgEAUEemkRq9kYeOc-A">
         <ownedEnd xmi:id="_h4qSgEAUEemkRq9kYeOc-A" name="impresora" visibility="private" type="_b7_fwEAUEemkRq9kYeOc-A" association="_h4f6cEAUEemkRq9kYeOc-A">
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_h490gUAUEemkRq9kYeOc-A" value="1"/>
@@ -13881,6 +13881,222 @@
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_Idb0gFPMEem0neqgAT71PQ" name="AltaImpresora">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_IeUlUFPMEem0neqgAT71PQ" name="AltaImpresora">
+          <eAnnotations xmi:id="_IeeWUFPMEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_IeeWUVPMEem0neqgAT71PQ" type="Sequence" element="_IeUlUFPMEem0neqgAT71PQ" name="AltaImpresora" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_IeeWUlPMEem0neqgAT71PQ" element="_IeUlUFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_IeeWU1PMEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_Q3GOIFPMEem0neqgAT71PQ" element="_Q2zTMFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_Q3GOIlPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_Q3GOI1PMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3GOJFPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3GOJVPMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Q3GOJlPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Q3GOIVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_PevUEFPMEem0neqgAT71PQ" element="_PeljEFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_PevUElPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_PevUE1PMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_PevUFFPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_PevUFVPMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_Pe4eAFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PevUEVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_IeeWVFPMEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IeeWVVPMEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_PeljEFPMEem0neqgAT71PQ" name="usuario" represents="_PeljEVPMEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_Q2zTMFPMEem0neqgAT71PQ" name="impresora" represents="_Q29EMFPMEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_PeljEVPMEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_Q29EMFPMEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_UoFzgFPMEem0neqgAT71PQ" name="BajaImpresora">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_UpSGUFPMEem0neqgAT71PQ" name="BajaImpresora">
+          <eAnnotations xmi:id="_UpSGUVPMEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_UpbQQFPMEem0neqgAT71PQ" type="Sequence" element="_UpSGUFPMEem0neqgAT71PQ" name="BajaImpresora" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_UpbQQVPMEem0neqgAT71PQ" element="_UpSGUFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_UpbQQlPMEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_bUtcgFPMEem0neqgAT71PQ" element="_bUjrgFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_bU2mcFPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_bU2mcVPMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bU2mclPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bU2mc1PMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_bU2mdFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bUtcgVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_aCHzQFPMEem0neqgAT71PQ" element="_aB-pUFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_aCHzQlPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_aCHzQ1PMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aCHzRFPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aCRkQFPMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_aCRkQVPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aCHzQVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_UpbQQ1PMEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UpbQRFPMEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_aB-pUFPMEem0neqgAT71PQ" name="usuario" represents="_aB-pUVPMEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_bUjrgFPMEem0neqgAT71PQ" name="impresora" represents="_bUjrgVPMEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_aB-pUVPMEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_bUjrgVPMEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_hBIMwFPMEem0neqgAT71PQ" name="BuscarImpresoraID">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_hCA9kFPMEem0neqgAT71PQ" name="BuscarImpresoraID">
+          <eAnnotations xmi:id="_hCKukFPMEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_hCKukVPMEem0neqgAT71PQ" type="Sequence" element="_hCA9kFPMEem0neqgAT71PQ" name="BuscarImpresoraID" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_hCKuklPMEem0neqgAT71PQ" element="_hCA9kFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hCKuk1PMEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_oHKbUFPMEem0neqgAT71PQ" element="_oHAqUFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_oHUMUFPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_oHUMUVPMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oHUMUlPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oHUMU1PMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_oHUMVFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_oHKbUVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_m6RKYFPMEem0neqgAT71PQ" element="_m6IAcFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_m6a7YFPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_m6a7YVPMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_m6a7YlPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_m6a7Y1PMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_m6a7ZFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_m6RKYVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_hCKulFPMEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hCKulVPMEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_m6IAcFPMEem0neqgAT71PQ" name="usuario" represents="_m6IAcVPMEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_oHAqUFPMEem0neqgAT71PQ" name="impresora" represents="_oHAqUVPMEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_m6IAcVPMEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_oHAqUVPMEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_vVH20FPMEem0neqgAT71PQ" name="BuscarImpresoraUsuario">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_vWBOsFPMEem0neqgAT71PQ" name="BuscarImpresoraUsuario">
+          <eAnnotations xmi:id="_vWK_sFPMEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vWK_sVPMEem0neqgAT71PQ" type="Sequence" element="_vWBOsFPMEem0neqgAT71PQ" name="BuscarImpresoraUsuario" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_vWK_slPMEem0neqgAT71PQ" element="_vWBOsFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_vWK_s1PMEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_3E8pQVPMEem0neqgAT71PQ" element="_3Ey4QFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_3FGaQFPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_3FGaQVPMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FGaQlPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FGaQ1PMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FGaRFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3E8pQlPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_1VT3oFPMEem0neqgAT71PQ" element="_1VKGoFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_1VT3olPMEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_1VT3o1PMEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1VT3pFPMEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1VT3pVPMEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_1VdBkFPMEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1VT3oVPMEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_vWK_tFPMEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vWK_tVPMEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_1VKGoFPMEem0neqgAT71PQ" name="usuario" represents="_1VKGoVPMEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_3Ey4QFPMEem0neqgAT71PQ" name="impresora" represents="_3E8pQFPMEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_1VKGoVPMEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_3E8pQFPMEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_60CKIFPMEem0neqgAT71PQ" name="ModificarImpresora">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_607iAFPMEem0neqgAT71PQ" name="ModificarImpresora">
+          <eAnnotations xmi:id="_61FTAFPMEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_61FTAVPMEem0neqgAT71PQ" type="Sequence" element="_607iAFPMEem0neqgAT71PQ" name="ModificarImpresora" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_61FTAlPMEem0neqgAT71PQ" element="_607iAFPMEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_61FTA1PMEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_FaLpcFPNEem0neqgAT71PQ" element="_FaCfgFPNEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_FaLpclPNEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_FaLpc1PNEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_FaLpdFPNEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_FaLpdVPNEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_FaLpdlPNEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_FaLpcVPNEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_C0CtoFPNEem0neqgAT71PQ" element="_Cz48oFPNEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_C0L3kFPNEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_C0L3kVPNEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_C0L3klPNEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_C0L3k1PNEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_C0L3lFPNEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_C0CtoVPNEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_61FTBFPMEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_61FTBVPMEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_Cz48oFPNEem0neqgAT71PQ" name="usuario" represents="_Cz48oVPNEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_FaCfgFPNEem0neqgAT71PQ" name="impresora" represents="_FaCfgVPNEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_Cz48oVPNEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_FaCfgVPNEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Collaboration" xmi:id="_ILNmoFPNEem0neqgAT71PQ" name="ListarImpresora">
+        <ownedBehavior xmi:type="uml:Interaction" xmi:id="_IMG-gFPNEem0neqgAT71PQ" name="ListarImpresora">
+          <eAnnotations xmi:id="_IMQIcFPNEem0neqgAT71PQ" source="uml2.diagrams">
+            <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_IMQIcVPNEem0neqgAT71PQ" type="Sequence" element="_IMG-gFPNEem0neqgAT71PQ" name="ListarImpresora" measurementUnit="Himetric">
+              <children xmi:type="umlnotation:UMLShape" xmi:id="_IMQIclPNEem0neqgAT71PQ" element="_IMG-gFPNEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
+                <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_IMQIc1PNEem0neqgAT71PQ" type="interaction_compartment">
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_PfSRMFPNEem0neqgAT71PQ" element="_PfJHQFPNEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_PfSRMlPNEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_PfSRM1PNEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_PfSRNFPNEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_PfcCMFPNEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_PfcCMVPNEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PfSRMVPNEem0neqgAT71PQ" x="264"/>
+                  </children>
+                  <children xmi:type="umlnotation:UMLShape" xmi:id="_N1oy0FPNEem0neqgAT71PQ" element="_N1fB0FPNEem0neqgAT71PQ" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+                    <eAnnotations xmi:id="_N1oy0lPNEem0neqgAT71PQ" source="com.ibm.xtools.uml.ui.diagram.internal.styles">
+                      <details xmi:id="_N1oy01PNEem0neqgAT71PQ" key="LifelineLabelStyle" value="Represents Name and Type Name"/>
+                    </eAnnotations>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_N1oy1FPNEem0neqgAT71PQ" type="Stereotype"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_N1oy1VPNEem0neqgAT71PQ" type="Name"/>
+                    <children xmi:type="notation:BasicDecorationNode" xmi:id="_N1oy1lPNEem0neqgAT71PQ" type="Parent"/>
+                    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_N1oy0VPNEem0neqgAT71PQ" x="264"/>
+                  </children>
+                </children>
+                <children xmi:type="notation:BasicDecorationNode" xmi:id="_IMQIdFPNEem0neqgAT71PQ" type="Name"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_IMQIdVPNEem0neqgAT71PQ" x="793" y="793"/>
+              </children>
+            </contents>
+          </eAnnotations>
+          <lifeline xmi:id="_N1fB0FPNEem0neqgAT71PQ" name="usuario" represents="_N1fB0VPNEem0neqgAT71PQ"/>
+          <lifeline xmi:id="_PfJHQFPNEem0neqgAT71PQ" name="impresora" represents="_PfJHQVPNEem0neqgAT71PQ"/>
+        </ownedBehavior>
+        <ownedAttribute xmi:id="_N1fB0VPNEem0neqgAT71PQ" name="usuario" type="_b7_fwEAUEemkRq9kYeOc-A"/>
+        <ownedAttribute xmi:id="_PfJHQVPNEem0neqgAT71PQ" name="impresora" type="_CKspgEWGEem14o20tVbfiA"/>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_igQOIEQeEemk9fszZJ1_ig" name="Local">
       <eAnnotations xmi:id="_igQOIUQeEemk9fszZJ1_ig" source="uml2.diagrams" references="_igQOIkQeEemk9fszZJ1_ig">
