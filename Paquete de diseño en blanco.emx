@@ -182,6 +182,20 @@
     </packagedElement>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_3bz4gFoLEemsPOTO8TsxVw" supplier="_zeV9YFoLEemsPOTO8TsxVw" client="_syZp0FoLEemsPOTO8TsxVw"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_qQ4uIGFEEemGv6w3oqEvZQ" name="Diseño">
+    <eAnnotations xmi:id="_qRVaEGFEEemGv6w3oqEvZQ" source="uml2.diagrams" references="_qRVaEWFEEemGv6w3oqEvZQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_qRVaEWFEEemGv6w3oqEvZQ" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Package" xmi:id="_shuvYGFEEemGv6w3oqEvZQ" name="Impresora">
+    <eAnnotations xmi:id="_sh35UGFEEemGv6w3oqEvZQ" source="uml2.diagrams" references="_sh35UWFEEemGv6w3oqEvZQ">
+      <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_sh35UWFEEemGv6w3oqEvZQ" type="Freeform" name="Principal">
+        <element xsi:nil="true"/>
+      </contents>
+    </eAnnotations>
+  </packagedElement>
   <profileApplication xmi:id="_MOryAloJEemsPOTO8TsxVw">
     <eAnnotations xmi:id="_MOryA1oJEemsPOTO8TsxVw" source="http://www.eclipse.org/uml2/2.0.0/UML">
       <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
