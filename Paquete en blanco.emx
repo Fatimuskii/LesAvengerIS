@@ -1911,10 +1911,10 @@
       </packageImport>
       <packagedElement xmi:type="uml:Class" xmi:id="_5F5IUU8hEemvZ7tfkGDXVg" name="Plataforma">
         <ownedAttribute xmi:id="_5F5IUk8hEemvZ7tfkGDXVg" name="diseños" visibility="private">
-          <type xmi:type="uml:Class" href="2.F.emx#_a_zRYEUDEem14o20tVbfiA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Diseño?"/>
+          <type xmi:type="uml:Class" href="Paquete%20de%20diseño%20en%20blanco1.emx#_a_zRYEUDEem14o20tVbfiA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Diseño?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5F5IU08hEemvZ7tfkGDXVg" name="usuario" visibility="private">
-          <type xmi:type="uml:Class" href="2.F.emx#_wxAt8EWSEemqL9ZpxCjhiA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+          <type xmi:type="uml:Class" href="Paquete%20de%20diseño%20en%20blanco1.emx#_wxAt8EWSEemqL9ZpxCjhiA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5F5IVE8hEemvZ7tfkGDXVg" name="carrito" visibility="private" type="_5F5IYU8hEemvZ7tfkGDXVg"/>
         <ownedAttribute xmi:id="_5F5IVU8hEemvZ7tfkGDXVg" name="historialCompras" visibility="private"/>
