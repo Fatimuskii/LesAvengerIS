@@ -477,6 +477,117 @@
     <packagedElement xmi:type="uml:Class" xmi:id="_Dd9CwGnFEemJzMzKw4vakQ" name="SAFactoriaImp" clientDependency="_bmfwEGnFEemJzMzKw4vakQ"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_bmfwEGnFEemJzMzKw4vakQ" supplier="_QdydoGnCEemJzMzKw4vakQ" client="_Dd9CwGnFEemJzMzKw4vakQ"/>
     <packagedElement xmi:type="uml:Dependency" xmi:id="_dtf40GnFEemJzMzKw4vakQ" supplier="_Dd9CwGnFEemJzMzKw4vakQ" client="_ysBWoGnEEemJzMzKw4vakQ"/>
+    <packagedElement xmi:type="uml:Package" xmi:id="_CM0WkGwsEemoOK2MkojSiA" name="Local">
+      <eAnnotations xmi:id="_CM7rUGwsEemoOK2MkojSiA" source="uml2.diagrams">
+        <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_M4ufoGwsEemoOK2MkojSiA" type="Class" name="SALocal">
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_uTtosGwsEemoOK2MkojSiA" element="_nNRxgGwsEemoOK2MkojSiA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_uTu20GwsEemoOK2MkojSiA" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_uTu20WwsEemoOK2MkojSiA" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uTu20mwsEemoOK2MkojSiA" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uTu202wsEemoOK2MkojSiA" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_uTu21GwsEemoOK2MkojSiA" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_uTu21WwsEemoOK2MkojSiA" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_uTvd4GwsEemoOK2MkojSiA" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_uTvd4WwsEemoOK2MkojSiA" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_uTwE8GwsEemoOK2MkojSiA" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_uTtosWwsEemoOK2MkojSiA" x="2159" y="3175"/>
+          </children>
+          <element xsi:nil="true"/>
+        </contents>
+      </eAnnotations>
+      <packagedElement xmi:type="uml:Class" xmi:id="_nNRxgGwsEemoOK2MkojSiA" name="TLocal">
+        <ownedAttribute xmi:id="_nNRxgWwsEemoOK2MkojSiA" name="IdLocal" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxgmwsEemoOK2MkojSiA" name="nombre" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxg2wsEemoOK2MkojSiA" name="telefono" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxhGwsEemoOK2MkojSiA" name="CIF" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxhWwsEemoOK2MkojSiA" name="direccion" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxhmwsEemoOK2MkojSiA" name="CP" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxh2wsEemoOK2MkojSiA" name="localidad" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_nNRxiGwsEemoOK2MkojSiA" name="representante" visibility="private">
+          <type xmi:type="uml:Class" href="../branches/prueba/Paquete%20de%20diseño%20en%20blanco1.emx#_acSPcEAzEemoVcW2dLhxNA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Local/Representante?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_0GTSYGwsEemoOK2MkojSiA" name="activo" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_nNRxiWwsEemoOK2MkojSiA" name="getIdLocal">
+          <ownedParameter xmi:id="_nNRximwsEemoOK2MkojSiA" name="this.nombre" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxi2wsEemoOK2MkojSiA" name="getNombreLocal">
+          <ownedParameter xmi:id="_nNRxjGwsEemoOK2MkojSiA" name="nombre" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxjWwsEemoOK2MkojSiA" name="getTelefono">
+          <ownedParameter xmi:id="_nNRxjmwsEemoOK2MkojSiA" name="telefono" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxj2wsEemoOK2MkojSiA" name="getCIF">
+          <ownedParameter xmi:id="_nNRxkGwsEemoOK2MkojSiA" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxkWwsEemoOK2MkojSiA" name="getDireccion">
+          <ownedParameter xmi:id="_nNRxkmwsEemoOK2MkojSiA" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxk2wsEemoOK2MkojSiA" name="getCP">
+          <ownedParameter xmi:id="_nNRxlGwsEemoOK2MkojSiA" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxlWwsEemoOK2MkojSiA" name="getLocalidad">
+          <ownedParameter xmi:id="_nNRxlmwsEemoOK2MkojSiA" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_nNRxl2wsEemoOK2MkojSiA" name="getRepresentante">
+          <ownedParameter xmi:id="_nNRxmGwsEemoOK2MkojSiA" name="Parameter1" direction="return">
+            <type xmi:type="uml:Class" href="../branches/prueba/Paquete%20de%20diseño%20en%20blanco1.emx#_acSPcEAzEemoVcW2dLhxNA?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Local/Representante?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_DBGdwGwtEemoOK2MkojSiA" name="getActivo"/>
+        <ownedOperation xmi:id="_VfymoGwtEemoOK2MkojSiA" name="setDatos">
+          <ownedParameter xmi:id="_GCfVsGwuEemoOK2MkojSiA" name="nombre">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_GtdlUGwuEemoOK2MkojSiA" name="telefono">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_G9iBoGwuEemoOK2MkojSiA" name="CIF">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_HF23MGwuEemoOK2MkojSiA" name="direccion">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_HMttIGwuEemoOK2MkojSiA" name="CP">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_HU4xsGwuEemoOK2MkojSiA" name="localidad">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_HkOOMGwuEemoOK2MkojSiA" name="representante"/>
+        </ownedOperation>
+      </packagedElement>
+    </packagedElement>
   </packagedElement>
   <packagedElement xmi:type="uml:Package" xmi:id="_U2xH92bAEemXE9gMk7_GjQ" name="Integración">
     <eAnnotations xmi:id="_U2xH-GbAEemXE9gMk7_GjQ" source="uml2.diagrams"/>
