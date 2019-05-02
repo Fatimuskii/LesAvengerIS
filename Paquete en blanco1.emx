@@ -5116,7 +5116,9 @@
           <ownedParameter xmi:id="_pnHBvGa_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ" direction="return"/>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBvWa_EemXE9gMk7_GjQ" name="listar">
-          <ownedParameter xmi:id="_pnHBvma_EemXE9gMk7_GjQ" name="diseños" direction="return"/>
+          <ownedParameter xmi:id="_pnHBvma_EemXE9gMk7_GjQ" name="diseños" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBv2a_EemXE9gMk7_GjQ" name="listarUsuario">
           <ownedParameter xmi:id="_pnHBwGa_EemXE9gMk7_GjQ" name="id_usuario">

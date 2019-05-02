@@ -844,7 +844,7 @@
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CW2zNEemzvstBRjnMUw" name="getPropietario">
           <ownedParameter xmi:id="_5R_CXGzNEemzvstBRjnMUw" name="propietario" direction="return">
-            <type xmi:type="uml:Class" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CXWzNEemzvstBRjnMUw" name="setPropietario">
@@ -854,7 +854,7 @@
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CX2zNEemzvstBRjnMUw" name="getDimensiones">
           <ownedParameter xmi:id="_5R_CYGzNEemzvstBRjnMUw" name="dimensiones" direction="return">
-            <type xmi:type="uml:Class" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CYWzNEemzvstBRjnMUw" name="setDimensiones">
@@ -1054,10 +1054,10 @@
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9OGzNEemzvstBRjnMUw" name="material" visibility="private">
-          <type xmi:type="uml:Enumeration" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
+          <type xmi:type="uml:Enumeration" href="Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9OWzNEemzvstBRjnMUw" name="tamaño" visibility="private">
-          <type xmi:type="uml:Class" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
+          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
           <qualifier xmi:id="_5SR9OmzNEemzvstBRjnMUw" name="material" visibility="private">
             <type xmi:type="uml:Enumeration" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
           </qualifier>
@@ -1069,7 +1069,7 @@
           </qualifier>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9PWzNEemzvstBRjnMUw" name="usuario" visibility="private">
-          <type xmi:type="uml:Class" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9PmzNEemzvstBRjnMUw" name="activo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
