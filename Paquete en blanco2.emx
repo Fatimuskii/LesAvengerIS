@@ -4587,7 +4587,9 @@
           </edges>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Interface" xmi:id="_NuUUgGzUEemzvstBRjnMUw" name="DAOPedidoImpresion" clientDependency="_JQdMoGzVEemzvstBRjnMUw _dC4qsG2YEemclOYRGq73cA"/>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_NuUUgGzUEemzvstBRjnMUw" name="DAOPedidoImpresion" clientDependency="_JQdMoGzVEemzvstBRjnMUw _dC4qsG2YEemclOYRGq73cA">
+        <ownedOperation xmi:id="_9hUPQG_lEemIH5waBYMoEg" name="Operation1"/>
+      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_QX4-0GzUEemzvstBRjnMUw" name="DAOPedidoImpresionImp" clientDependency="_UQ4poGzUEemzvstBRjnMUw _Cy6W0G2YEemclOYRGq73cA _E1vKMG2YEemclOYRGq73cA _FSWNsG2YEemclOYRGq73cA _Ftn0cG2YEemclOYRGq73cA _GKq80G2YEemclOYRGq73cA"/>
       <packagedElement xmi:type="uml:Realization" xmi:id="_UQ4poGzUEemzvstBRjnMUw" supplier="_NuUUgGzUEemzvstBRjnMUw" client="_QX4-0GzUEemzvstBRjnMUw"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_JQdMoGzVEemzvstBRjnMUw" supplier="_EP75EGzVEemzvstBRjnMUw" client="_NuUUgGzUEemzvstBRjnMUw"/>
