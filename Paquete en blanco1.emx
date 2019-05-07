@@ -6541,7 +6541,6 @@
         <ownedOperation xmi:id="_pnHAEGa_EemXE9gMk7_GjQ" name="getTipoMaterial"/>
         <ownedOperation xmi:id="_VtN-sHBLEemDe-gLpI4oJQ" name="setPedidoImpresion"/>
         <ownedOperation xmi:id="_Zj-04HBLEemDe-gLpI4oJQ" name="setUsuarioSolicitante"/>
-        <ownedOperation xmi:id="_dufGcHBLEemDe-gLpI4oJQ" name="setUsuarioImpresor"/>
         <ownedOperation xmi:id="_g15jUHBLEemDe-gLpI4oJQ" name="setDiseño"/>
         <ownedOperation xmi:id="_m38lUHBLEemDe-gLpI4oJQ" name="setLimiteDias"/>
         <ownedOperation xmi:id="_9RuqwHBLEemDe-gLpI4oJQ" name="setFecha"/>
