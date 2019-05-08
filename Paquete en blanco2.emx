@@ -2343,9 +2343,46 @@
           </edges>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Class" xmi:id="_hvbSYGzUEemzvstBRjnMUw" name="TPlataforma"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_hvbSYGzUEemzvstBRjnMUw" name="TPlataforma">
+        <ownedAttribute xmi:id="_MZh1QHDZEemZj_Bma9KjrQ" name="usuarioLog" visibility="private">
+          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_Y0p5MHDZEemZj_Bma9KjrQ" name="carrito" visibility="private">
+          <type xmi:type="uml:Class" href="platform:/resource/Plataforma%20Oscar/Paquete%20en%20blanco.emx#_5F5IYU8hEemvZ7tfkGDXVg?1.%20Requisitos/Casos%20de%20Uso/Plataforma/Carrito?"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_vzIAEHDZEemZj_Bma9KjrQ" name="listaDiseños" visibility="private"/>
+        <ownedOperation xmi:id="_Hc674HDaEemZj_Bma9KjrQ" name="getUsuario">
+          <ownedParameter xmi:id="_cnZVkHDaEemZj_Bma9KjrQ" name="Parameter1" type="_sH8a0GzTEemzvstBRjnMUw" direction="return"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_5E20sHDaEemZj_Bma9KjrQ" name="getCarrito">
+          <ownedParameter xmi:id="_68wxgHDaEemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:Class" href="platform:/resource/Plataforma%20Oscar/Paquete%20en%20blanco.emx#_5F5IYU8hEemvZ7tfkGDXVg?1.%20Requisitos/Casos%20de%20Uso/Plataforma/Carrito?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="__IWoMHDaEemZj_Bma9KjrQ" name="setUsuario">
+          <ownedParameter xmi:id="_FeS2kHDbEemZj_Bma9KjrQ" name="user" type="_sH8a0GzTEemzvstBRjnMUw"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_KQXecHDbEemZj_Bma9KjrQ" name="setCarrito">
+          <ownedParameter xmi:id="_NhTqwHDbEemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:Class" href="platform:/resource/Plataforma%20Oscar/Paquete%20en%20blanco.emx#_5F5IYU8hEemvZ7tfkGDXVg?1.%20Requisitos/Casos%20de%20Uso/Plataforma/Carrito?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_aq8oAHF_EemZj_Bma9KjrQ" name="login"/>
+        <ownedOperation xmi:id="_c0fHYHF_EemZj_Bma9KjrQ" name="logout"/>
+        <ownedOperation xmi:id="_d8kw0HF_EemZj_Bma9KjrQ" name="annadirCarrito"/>
+        <ownedOperation xmi:id="_fTL-cHF_EemZj_Bma9KjrQ" name="eliminarCarrito"/>
+        <ownedOperation xmi:id="_hzYDQHF_EemZj_Bma9KjrQ" name="annadirMetodoPago"/>
+        <ownedOperation xmi:id="_jmQ9MHF_EemZj_Bma9KjrQ" name="eliminarMetodoPago"/>
+      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_jGmgsGzUEemzvstBRjnMUw" name="SAPlataformaImp" clientDependency="_sEHOQGzUEemzvstBRjnMUw _2ao9MGzUEemzvstBRjnMUw _25JjcG2rEemclOYRGq73cA _3XZlsG2rEemclOYRGq73cA"/>
-      <packagedElement xmi:type="uml:Interface" xmi:id="_nLVhcGzUEemzvstBRjnMUw" name="SAPlataforma" clientDependency="_wyAgwGzUEemzvstBRjnMUw _34gusG2rEemclOYRGq73cA"/>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_nLVhcGzUEemzvstBRjnMUw" name="SAPlataforma" clientDependency="_wyAgwGzUEemzvstBRjnMUw _34gusG2rEemclOYRGq73cA">
+        <ownedOperation xmi:id="_1KuScHF_EemZj_Bma9KjrQ" name="login"/>
+        <ownedOperation xmi:id="_3ilhsHF_EemZj_Bma9KjrQ" name="logout"/>
+        <ownedOperation xmi:id="_4usvgHF_EemZj_Bma9KjrQ" name="annadirCarrito"/>
+        <ownedOperation xmi:id="_57ujUHF_EemZj_Bma9KjrQ" name="eliminarCarrito"/>
+        <ownedOperation xmi:id="_8vcBEHF_EemZj_Bma9KjrQ" name="annadirMetodoPago"/>
+        <ownedOperation xmi:id="_-X5zsHF_EemZj_Bma9KjrQ" name="eliminarMetodoPago"/>
+      </packagedElement>
       <packagedElement xmi:type="uml:Realization" xmi:id="_sEHOQGzUEemzvstBRjnMUw" supplier="_nLVhcGzUEemzvstBRjnMUw" client="_jGmgsGzUEemzvstBRjnMUw"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_wyAgwGzUEemzvstBRjnMUw" supplier="_hvbSYGzUEemzvstBRjnMUw" client="_nLVhcGzUEemzvstBRjnMUw"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_2ao9MGzUEemzvstBRjnMUw" supplier="_hvbSYGzUEemzvstBRjnMUw" client="_jGmgsGzUEemzvstBRjnMUw"/>
@@ -4705,10 +4742,14 @@
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_VtApZWzUEemzvstBRjnMUw" type="Kind"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_VtApZmzUEemzvstBRjnMUw" type="Name"/>
             <children xmi:type="notation:BasicDecorationNode" xmi:id="_VtApZ2zUEemzvstBRjnMUw" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_VtApaGzUEemzvstBRjnMUw" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_VtApaWzUEemzvstBRjnMUw" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_VtApaGzUEemzvstBRjnMUw" type="AttributeCompartment">
+              <layoutConstraint xmi:type="notation:Ratio" xmi:id="_7ihUgHDbEemZj_Bma9KjrQ" value="-0.023088023088023088"/>
+            </children>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_VtApaWzUEemzvstBRjnMUw" type="OperationCompartment">
+              <layoutConstraint xmi:type="notation:Ratio" xmi:id="_7ihUgXDbEemZj_Bma9KjrQ" value="1.023088023088023"/>
+            </children>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_VtApamzUEemzvstBRjnMUw" visible="false" type="SignalCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtApYWzUEemzvstBRjnMUw" x="7752" y="2566"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VtApYWzUEemzvstBRjnMUw" x="7752" y="2566" width="4229" height="4546"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_WthrMGzUEemzvstBRjnMUw" element="_WtYhQGzUEemzvstBRjnMUw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_WthrMmzUEemzvstBRjnMUw" type="ImageCompartment">
@@ -4734,7 +4775,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_0vzMA2zUEemzvstBRjnMUw" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_0vzMBGzUEemzvstBRjnMUw" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_0vzMBWzUEemzvstBRjnMUw" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0vqCEWzUEemzvstBRjnMUw" x="1320" y="2376"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_0vqCEWzUEemzvstBRjnMUw" x="1320" y="1980" width="5235" height="6585"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_M7IkAG2YEemclOYRGq73cA" element="_w7AJEGzNEemzvstBRjnMUw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_M7IkAm2YEemclOYRGq73cA" type="ImageCompartment">
@@ -4884,7 +4925,34 @@
           </edges>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Interface" xmi:id="_Vsj9cGzUEemzvstBRjnMUw" name="DAOPlataforma" clientDependency="_3tfsMGzUEemzvstBRjnMUw _e0ubwG2YEemclOYRGq73cA"/>
+      <packagedElement xmi:type="uml:Interface" xmi:id="_Vsj9cGzUEemzvstBRjnMUw" name="DAOPlataforma" clientDependency="_3tfsMGzUEemzvstBRjnMUw _e0ubwG2YEemclOYRGq73cA">
+        <ownedOperation xmi:id="_dGkvcHDbEemZj_Bma9KjrQ" name="login">
+          <ownedParameter xmi:id="_iCi6MHDbEemZj_Bma9KjrQ" name="user" type="_sH8a0GzTEemzvstBRjnMUw"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_i3KOAHDbEemZj_Bma9KjrQ" name="logout">
+          <ownedParameter xmi:id="_sNHQwHDbEemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_ytw6UHDbEemZj_Bma9KjrQ" name="annadirCarrito">
+          <ownedParameter xmi:id="_5acNsHDbEemZj_Bma9KjrQ" name="diseño" type="_5R_CSGzNEemzvstBRjnMUw"/>
+        </ownedOperation>
+        <ownedOperation xmi:id="_8TRcAHDbEemZj_Bma9KjrQ" name="eliminarCarrito">
+          <ownedParameter xmi:id="_DGO9kHDcEemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_bOEOEHF9EemZj_Bma9KjrQ" name="annadirMetodoPago">
+          <ownedParameter xmi:id="_dm8xAHF9EemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_TkosoHF_EemZj_Bma9KjrQ" name="eliminarMetodoPago">
+          <ownedParameter xmi:id="_V7bk4HF_EemZj_Bma9KjrQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+      </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_WtYhQGzUEemzvstBRjnMUw" name="DAOPlataformaImp" clientDependency="_YDD6wGzUEemzvstBRjnMUw _OeE9cG2YEemclOYRGq73cA _O8xroG2YEemclOYRGq73cA _PbdywG2YEemclOYRGq73cA _P5cvQG2YEemclOYRGq73cA _QZfhQG2YEemclOYRGq73cA"/>
       <packagedElement xmi:type="uml:Realization" xmi:id="_YDD6wGzUEemzvstBRjnMUw" supplier="_Vsj9cGzUEemzvstBRjnMUw" client="_WtYhQGzUEemzvstBRjnMUw"/>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_3tfsMGzUEemzvstBRjnMUw" supplier="_hvbSYGzUEemzvstBRjnMUw" client="_Vsj9cGzUEemzvstBRjnMUw"/>
