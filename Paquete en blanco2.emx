@@ -321,7 +321,7 @@
           <element xsi:nil="true"/>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Class" xmi:id="_ddQvUGnDEemJzMzKw4vakQ" name="GUIImpresora"/>
+      <packagedElement xmi:type="uml:Class" xmi:id="_ddQvUGnDEemJzMzKw4vakQ" name="GUIImpresora" isAbstract="true"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_ed7iIGnDEemJzMzKw4vakQ" name="GUIImpresoraImp"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_DwSlYGnEEemJzMzKw4vakQ" name="GUIAltaImpresora"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_FKlZIGnEEemJzMzKw4vakQ" name="GUIBajaImpresora"/>
