@@ -3139,9 +3139,6 @@
         <ownedAttribute xmi:id="_TGPk8HnZEemgxKNsk_Omug" name="cuentaBancaria" visibility="private">
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_TNYuwHnZEemgxKNsk_Omug" name="cvv" visibility="private">
-          <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
-        </ownedAttribute>
         <ownedAttribute xmi:id="_TqhWsHnZEemgxKNsk_Omug" name="fechaCaducidad" visibility="private">
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
@@ -3213,11 +3210,6 @@
             <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_0VsMYHnZEemgxKNsk_Omug" name="getCvv">
-          <ownedParameter xmi:id="_FTo7QHnaEemgxKNsk_Omug" name="Parameter1" direction="return">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
-          </ownedParameter>
-        </ownedOperation>
         <ownedOperation xmi:id="_2LURQHnZEemgxKNsk_Omug" name="getFechaCaducidad">
           <ownedParameter xmi:id="_Nz8IYHnaEemgxKNsk_Omug" name="Parameter1" direction="return">
             <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
@@ -3230,11 +3222,6 @@
         </ownedOperation>
         <ownedOperation xmi:id="_ZFi_gHnaEemgxKNsk_Omug" name="setCuentaBancaria">
           <ownedParameter xmi:id="_d5AHcHnaEemgxKNsk_Omug" name="cuentaBancaria">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_Ztd7IHnaEemgxKNsk_Omug" name="setCvv">
-          <ownedParameter xmi:id="_hzF-cHnaEemgxKNsk_Omug" name="cvv">
             <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
