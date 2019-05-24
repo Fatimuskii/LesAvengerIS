@@ -7628,6 +7628,9 @@
         <ownedAttribute xmi:id="_lc6XEHnVEemgxKNsk_Omug" name="fechaCaducidad" visibility="private">
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
+        <ownedAttribute xmi:id="_g96A8H4OEemYy-gvfumczg" name="activo" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedAttribute>
         <ownedOperation xmi:id="_pnHA-Ga_EemXE9gMk7_GjQ" name="altaUsuario">
           <ownedParameter xmi:id="_pnHA-Wa_EemXE9gMk7_GjQ" name="idUsuario" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
@@ -7770,6 +7773,20 @@
         <ownedOperation xmi:id="_CH9ysHtJEemgxKNsk_Omug" name="setEmail">
           <ownedParameter xmi:id="_DsA_YHtJEemgxKNsk_Omug" name="email">
             <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_oCPmYH4OEemYy-gvfumczg" name="getActivo">
+          <ownedParameter xmi:id="_r9q6IH4OEemYy-gvfumczg" name="Parameter1" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_wBc4oH4OEemYy-gvfumczg" name="setActivo">
+          <ownedParameter xmi:id="_1tGM0H4OEemYy-gvfumczg" name="activo">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <defaultValue xmi:type="uml:OpaqueExpression" xmi:id="_9-MgUH4OEemYy-gvfumczg" name="">
+              <language></language>
+              <body></body>
+            </defaultValue>
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
