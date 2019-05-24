@@ -2662,8 +2662,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4PdGa_EemXE9gMk7_GjQ" covered="_pk4Pa2a_EemXE9gMk7_GjQ" event="_pk4PgWa_EemXE9gMk7_GjQ" message="_pk4Pema_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4PdWa_EemXE9gMk7_GjQ" covered="_pk4Pa2a_EemXE9gMk7_GjQ" event="_pk4Pfma_EemXE9gMk7_GjQ" message="_pk4PeGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4Pdma_EemXE9gMk7_GjQ" covered="_pk4Pama_EemXE9gMk7_GjQ" event="_pk4Pf2a_EemXE9gMk7_GjQ" message="_pk4PeGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Pd2a_EemXE9gMk7_GjQ" name="bajaLocal" receiveEvent="_pk4Pbma_EemXE9gMk7_GjQ" sendEvent="_pk4PbWa_EemXE9gMk7_GjQ" connector="_pk4PZGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4PeGa_EemXE9gMk7_GjQ" name="bajaLocal" messageSort="reply" receiveEvent="_pk4Pdma_EemXE9gMk7_GjQ" sendEvent="_pk4PdWa_EemXE9gMk7_GjQ" connector="_pk4PZGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Pd2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4Pbma_EemXE9gMk7_GjQ" sendEvent="_pk4PbWa_EemXE9gMk7_GjQ" connector="_pk4PZGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4PeGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4Pdma_EemXE9gMk7_GjQ" sendEvent="_pk4PdWa_EemXE9gMk7_GjQ" connector="_pk4PZGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4PeWa_EemXE9gMk7_GjQ" name="delete" receiveEvent="_pk4PcWa_EemXE9gMk7_GjQ" sendEvent="_pk4PcGa_EemXE9gMk7_GjQ" connector="_pk4PZ2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4Pema_EemXE9gMk7_GjQ" name="informarok/error" messageSort="reply" receiveEvent="_pk4PdGa_EemXE9gMk7_GjQ" sendEvent="_pk4Pc2a_EemXE9gMk7_GjQ" connector="_pk4PZ2a_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
@@ -2671,8 +2671,8 @@
         <ownedAttribute xmi:id="_pk4PfGa_EemXE9gMk7_GjQ" name="local" type="_pnHANGa_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4PfWa_EemXE9gMk7_GjQ" name="BDLocal" type="_pk4PJ2a_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4Pfma_EemXE9gMk7_GjQ" name="SendOperationEvent3" operation="_pnHAVma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4Pf2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent3" operation="_pnHAVma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4Pfma_EemXE9gMk7_GjQ" name="SendOperationEvent3"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4Pf2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent3"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4PgGa_EemXE9gMk7_GjQ" name="SendOperationEvent4" operation="_pk4PK2a_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4PgWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent4" operation="_pk4PK2a_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4Pgma_EemXE9gMk7_GjQ" name="ModificarLocal">
@@ -2765,8 +2765,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4Px2a_EemXE9gMk7_GjQ" covered="_pk4Pvma_EemXE9gMk7_GjQ" event="_pk4P1Ga_EemXE9gMk7_GjQ" message="_pk4PzWa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4PyGa_EemXE9gMk7_GjQ" covered="_pk4Pvma_EemXE9gMk7_GjQ" event="_pk4P0Wa_EemXE9gMk7_GjQ" message="_pk4Py2a_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4PyWa_EemXE9gMk7_GjQ" covered="_pk4PvWa_EemXE9gMk7_GjQ" event="_pk4P0ma_EemXE9gMk7_GjQ" message="_pk4Py2a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Pyma_EemXE9gMk7_GjQ" name="modificarLocal" receiveEvent="_pk4PwWa_EemXE9gMk7_GjQ" sendEvent="_pk4PwGa_EemXE9gMk7_GjQ" connector="_pk4Pt2a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Py2a_EemXE9gMk7_GjQ" name="modificarLocal" messageSort="reply" receiveEvent="_pk4PyWa_EemXE9gMk7_GjQ" sendEvent="_pk4PyGa_EemXE9gMk7_GjQ" connector="_pk4Pt2a_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Pyma_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4PwWa_EemXE9gMk7_GjQ" sendEvent="_pk4PwGa_EemXE9gMk7_GjQ" connector="_pk4Pt2a_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Py2a_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4PyWa_EemXE9gMk7_GjQ" sendEvent="_pk4PyGa_EemXE9gMk7_GjQ" connector="_pk4Pt2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4PzGa_EemXE9gMk7_GjQ" name="update" receiveEvent="_pk4PxGa_EemXE9gMk7_GjQ" sendEvent="_pk4Pw2a_EemXE9gMk7_GjQ" connector="_pk4Puma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4PzWa_EemXE9gMk7_GjQ" name="update" messageSort="reply" receiveEvent="_pk4Px2a_EemXE9gMk7_GjQ" sendEvent="_pk4Pxma_EemXE9gMk7_GjQ" connector="_pk4Puma_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
@@ -2774,8 +2774,8 @@
         <ownedAttribute xmi:id="_pk4Pz2a_EemXE9gMk7_GjQ" name="local" type="_pnHANGa_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4P0Ga_EemXE9gMk7_GjQ" name="dAOLocal" type="_pk4PJ2a_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4P0Wa_EemXE9gMk7_GjQ" name="SendOperationEvent5" operation="_pnHAWGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4P0ma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent5" operation="_pnHAWGa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4P0Wa_EemXE9gMk7_GjQ" name="SendOperationEvent5"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4P0ma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent5"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4P02a_EemXE9gMk7_GjQ" name="SendOperationEvent6" operation="_pk4PKma_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4P1Ga_EemXE9gMk7_GjQ" name="ReceiveOperationEvent6" operation="_pk4PKma_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4P1Wa_EemXE9gMk7_GjQ" name="BuscarLocal">
@@ -2868,8 +2868,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4QGma_EemXE9gMk7_GjQ" covered="_pk4QEWa_EemXE9gMk7_GjQ" event="_pk4QKma_EemXE9gMk7_GjQ" message="_pk4QIGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4QG2a_EemXE9gMk7_GjQ" covered="_pk4QEWa_EemXE9gMk7_GjQ" event="_pk4QJ2a_EemXE9gMk7_GjQ" message="_pk4QHma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4QHGa_EemXE9gMk7_GjQ" covered="_pk4QEGa_EemXE9gMk7_GjQ" event="_pk4QKGa_EemXE9gMk7_GjQ" message="_pk4QHma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4QHWa_EemXE9gMk7_GjQ" name="buscarLocal" receiveEvent="_pk4QFGa_EemXE9gMk7_GjQ" sendEvent="_pk4QE2a_EemXE9gMk7_GjQ" connector="_pk4QCma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4QHma_EemXE9gMk7_GjQ" name="local" messageSort="reply" receiveEvent="_pk4QHGa_EemXE9gMk7_GjQ" sendEvent="_pk4QG2a_EemXE9gMk7_GjQ" connector="_pk4QCma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4QHWa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4QFGa_EemXE9gMk7_GjQ" sendEvent="_pk4QE2a_EemXE9gMk7_GjQ" connector="_pk4QCma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4QHma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4QHGa_EemXE9gMk7_GjQ" sendEvent="_pk4QG2a_EemXE9gMk7_GjQ" connector="_pk4QCma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4QH2a_EemXE9gMk7_GjQ" name="read" receiveEvent="_pk4QF2a_EemXE9gMk7_GjQ" sendEvent="_pk4QFma_EemXE9gMk7_GjQ" connector="_pk4QDWa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4QIGa_EemXE9gMk7_GjQ" name="informar ok/error" messageSort="reply" receiveEvent="_pk4QGma_EemXE9gMk7_GjQ" sendEvent="_pk4QGWa_EemXE9gMk7_GjQ" connector="_pk4QDWa_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
@@ -2882,8 +2882,8 @@
       </packagedElement>
       <packagedElement xmi:type="uml:Actor" xmi:id="_pk4QJWa_EemXE9gMk7_GjQ" name="Usuario"/>
       <packagedElement xmi:type="uml:Class" xmi:id="_pk4QJma_EemXE9gMk7_GjQ" name="local"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4QJ2a_EemXE9gMk7_GjQ" name="SendOperationEvent7" operation="_pnHAWWa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4QKGa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent7" operation="_pnHAWWa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4QJ2a_EemXE9gMk7_GjQ" name="SendOperationEvent7"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4QKGa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent7"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4QKWa_EemXE9gMk7_GjQ" name="SendOperationEvent8" operation="_pk4PKWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4QKma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent8" operation="_pk4PKWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4QK2a_EemXE9gMk7_GjQ" name="ListarLocales">
@@ -2976,8 +2976,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4QcGa_EemXE9gMk7_GjQ" covered="_pk4QZ2a_EemXE9gMk7_GjQ" message="_pk4Qdma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4QcWa_EemXE9gMk7_GjQ" covered="_pk4QZ2a_EemXE9gMk7_GjQ" event="_pk4Qe2a_EemXE9gMk7_GjQ" message="_pk4QdGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4Qcma_EemXE9gMk7_GjQ" covered="_pk4QZma_EemXE9gMk7_GjQ" event="_pk4QfGa_EemXE9gMk7_GjQ" message="_pk4QdGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Qc2a_EemXE9gMk7_GjQ" name="listarLocales" receiveEvent="_pk4Qama_EemXE9gMk7_GjQ" sendEvent="_pk4QaWa_EemXE9gMk7_GjQ" connector="_pk4QYGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4QdGa_EemXE9gMk7_GjQ" name="listarLocales" messageSort="reply" receiveEvent="_pk4Qcma_EemXE9gMk7_GjQ" sendEvent="_pk4QcWa_EemXE9gMk7_GjQ" connector="_pk4QYGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Qc2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4Qama_EemXE9gMk7_GjQ" sendEvent="_pk4QaWa_EemXE9gMk7_GjQ" connector="_pk4QYGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4QdGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4Qcma_EemXE9gMk7_GjQ" sendEvent="_pk4QcWa_EemXE9gMk7_GjQ" connector="_pk4QYGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4QdWa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4QbWa_EemXE9gMk7_GjQ" sendEvent="_pk4QbGa_EemXE9gMk7_GjQ" connector="_pk4QY2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4Qdma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4QcGa_EemXE9gMk7_GjQ" sendEvent="_pk4Qb2a_EemXE9gMk7_GjQ" connector="_pk4QY2a_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
@@ -2986,8 +2986,8 @@
         <ownedAttribute xmi:id="_pk4QeWa_EemXE9gMk7_GjQ" name="dAOLocal" type="_pk4PJ2a_EemXE9gMk7_GjQ"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Class" xmi:id="_pk4Qema_EemXE9gMk7_GjQ" name="ArrayListLocales"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4Qe2a_EemXE9gMk7_GjQ" name="SendOperationEvent9" operation="_pnHAWma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4QfGa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent9" operation="_pnHAWma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4Qe2a_EemXE9gMk7_GjQ" name="SendOperationEvent9"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4QfGa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent9"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_pk4QfWa_EemXE9gMk7_GjQ" name="PedidoImpresion">
       <eAnnotations xmi:id="_pk4Qfma_EemXE9gMk7_GjQ" source="uml2.diagrams"/>
@@ -7437,20 +7437,7 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHAJWa_EemXE9gMk7_GjQ" type="OperationCompartment"/>
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHAJma_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHAJ2a_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHAKGa_EemXE9gMk7_GjQ" x="1848" y="924" width="7351"/>
-          </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHAKWa_EemXE9gMk7_GjQ" element="_pnHAW2a_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHAKma_EemXE9gMk7_GjQ" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_pnHAK2a_EemXE9gMk7_GjQ" width="1320" height="1320"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHALGa_EemXE9gMk7_GjQ" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHALWa_EemXE9gMk7_GjQ" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHALma_EemXE9gMk7_GjQ" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHAL2a_EemXE9gMk7_GjQ" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHAMGa_EemXE9gMk7_GjQ" type="OperationCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHAMWa_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHAMma_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHAM2a_EemXE9gMk7_GjQ" x="11748" y="2112"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHAKGa_EemXE9gMk7_GjQ" x="4356" y="2508" width="7351"/>
           </children>
           <element xsi:nil="true"/>
         </contents>
@@ -7477,7 +7464,12 @@
         <ownedAttribute xmi:id="_pnHAO2a_EemXE9gMk7_GjQ" name="localidad" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHAPGa_EemXE9gMk7_GjQ" name="representante" visibility="private" type="_pnHAW2a_EemXE9gMk7_GjQ"/>
+        <ownedAttribute xmi:id="_pnHAPGa_EemXE9gMk7_GjQ" name="representante" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_qdzdsH5tEem0_ve2K0JlZQ" name="activo" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </ownedAttribute>
         <ownedOperation xmi:id="_pnHAPWa_EemXE9gMk7_GjQ" name="getIdLocal">
           <ownedParameter xmi:id="_pnHAPma_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
@@ -7514,7 +7506,9 @@
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHAS2a_EemXE9gMk7_GjQ" name="getRepresentante">
-          <ownedParameter xmi:id="_pnHATGa_EemXE9gMk7_GjQ" name="Parameter1" type="_pnHAW2a_EemXE9gMk7_GjQ" direction="return"/>
+          <ownedParameter xmi:id="_pnHATGa_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
+            <type xmi:type="uml:Class" href="pathmap://XSD_LIBRARIES/XSDDataTypes.library.emx#_7yKF-ikGEdmDdasWev0kGA?XSDDataTypes/XSDDataTypes/string?"/>
+          </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHATWa_EemXE9gMk7_GjQ" name="altaLocal">
           <ownedParameter xmi:id="_pnHATma_EemXE9gMk7_GjQ" name="nuevoLocal" type="_pnHANGa_EemXE9gMk7_GjQ" direction="return"/>
@@ -7536,38 +7530,7 @@
           <ownedParameter xmi:id="_pnHAVGa_EemXE9gMk7_GjQ" name="localidad">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHAVWa_EemXE9gMk7_GjQ" name="representante" type="_pnHAW2a_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHAVma_EemXE9gMk7_GjQ" name="bajaLocal"/>
-        <ownedOperation xmi:id="_pnHAV2a_EemXE9gMk7_GjQ" name="buscarPorId"/>
-        <ownedOperation xmi:id="_pnHAWGa_EemXE9gMk7_GjQ" name="modificarLocal"/>
-        <ownedOperation xmi:id="_pnHAWWa_EemXE9gMk7_GjQ" name="buscarLocal"/>
-        <ownedOperation xmi:id="_pnHAWma_EemXE9gMk7_GjQ" name="listarLocales"/>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_pnHAW2a_EemXE9gMk7_GjQ" name="Representante">
-        <ownedAttribute xmi:id="_pnHAXGa_EemXE9gMk7_GjQ" name="nombreCompleto" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHAXWa_EemXE9gMk7_GjQ" name="telefonoPersonal" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHAXma_EemXE9gMk7_GjQ" name="email" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
-        <ownedOperation xmi:id="_pnHAX2a_EemXE9gMk7_GjQ" name="getNombre">
-          <ownedParameter xmi:id="_pnHAYGa_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHAYWa_EemXE9gMk7_GjQ" name="getTelefonoPersonal">
-          <ownedParameter xmi:id="_pnHAYma_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHAY2a_EemXE9gMk7_GjQ" name="getEmail">
-          <ownedParameter xmi:id="_pnHAZGa_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
+          <ownedParameter xmi:id="_pnHAVWa_EemXE9gMk7_GjQ" name="representante"/>
         </ownedOperation>
       </packagedElement>
     </packagedElement>
@@ -8357,19 +8320,6 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCmGa_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHCmWa_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHCmma_EemXE9gMk7_GjQ" x="13464" y="15444"/>
-          </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHCm2a_EemXE9gMk7_GjQ" element="_pnHAW2a_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCnGa_EemXE9gMk7_GjQ" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_pnHCnWa_EemXE9gMk7_GjQ" width="1296" height="1296"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCnma_EemXE9gMk7_GjQ" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCn2a_EemXE9gMk7_GjQ" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCoGa_EemXE9gMk7_GjQ" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCoWa_EemXE9gMk7_GjQ" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHComa_EemXE9gMk7_GjQ" type="OperationCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCo2a_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHCpGa_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHCpWa_EemXE9gMk7_GjQ" x="21798" y="15577"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHCpma_EemXE9gMk7_GjQ" element="_pnG__ma_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_pnHCp2a_EemXE9gMk7_GjQ" type="ImageCompartment">
