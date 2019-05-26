@@ -137,8 +137,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkualGa_EemXE9gMk7_GjQ" covered="_pkuahma_EemXE9gMk7_GjQ" message="_pkuanGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkualWa_EemXE9gMk7_GjQ" covered="_pkuahma_EemXE9gMk7_GjQ" event="_pk4LMma_EemXE9gMk7_GjQ" message="_pkuamGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkualma_EemXE9gMk7_GjQ" covered="_pkuahWa_EemXE9gMk7_GjQ" event="_pk4LM2a_EemXE9gMk7_GjQ" message="_pkuamGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkual2a_EemXE9gMk7_GjQ" name="alta" receiveEvent="_pkuaiWa_EemXE9gMk7_GjQ" sendEvent="_pkuaiGa_EemXE9gMk7_GjQ" connector="_pkuafGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkuamGa_EemXE9gMk7_GjQ" name="alta" messageSort="reply" receiveEvent="_pkualma_EemXE9gMk7_GjQ" sendEvent="_pkualWa_EemXE9gMk7_GjQ" connector="_pkuafGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkual2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pkuaiWa_EemXE9gMk7_GjQ" sendEvent="_pkuaiGa_EemXE9gMk7_GjQ" connector="_pkuafGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkuamGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pkualma_EemXE9gMk7_GjQ" sendEvent="_pkualWa_EemXE9gMk7_GjQ" connector="_pkuafGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkuamWa_EemXE9gMk7_GjQ" name="insert" receiveEvent="_pkuajGa_EemXE9gMk7_GjQ" sendEvent="_pkuai2a_EemXE9gMk7_GjQ" connector="_pkuaf2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkuamma_EemXE9gMk7_GjQ" name="insert" messageSort="reply" receiveEvent="_pkuaj2a_EemXE9gMk7_GjQ" sendEvent="_pkuajma_EemXE9gMk7_GjQ" connector="_pkuaf2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkuam2a_EemXE9gMk7_GjQ" name="informar" receiveEvent="_pkuakWa_EemXE9gMk7_GjQ" sendEvent="_pkuakGa_EemXE9gMk7_GjQ" connector="_pkuagma_EemXE9gMk7_GjQ"/>
@@ -351,16 +351,16 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkubOma_EemXE9gMk7_GjQ" covered="_pkubHma_EemXE9gMk7_GjQ" event="_pk4OI2a_EemXE9gMk7_GjQ" message="_pkubRma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkubO2a_EemXE9gMk7_GjQ" covered="_pkubHma_EemXE9gMk7_GjQ" event="_pk4LPGa_EemXE9gMk7_GjQ" message="_pkubPma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pkubPGa_EemXE9gMk7_GjQ" covered="_pkubHWa_EemXE9gMk7_GjQ" event="_pk4LPWa_EemXE9gMk7_GjQ" message="_pkubPma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkubPWa_EemXE9gMk7_GjQ" name="baja" receiveEvent="_pkubIWa_EemXE9gMk7_GjQ" sendEvent="_pkubIGa_EemXE9gMk7_GjQ" connector="_pkubFGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkubPma_EemXE9gMk7_GjQ" name="baja" messageSort="reply" receiveEvent="_pkubPGa_EemXE9gMk7_GjQ" sendEvent="_pkubO2a_EemXE9gMk7_GjQ" connector="_pkubFGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkubPWa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pkubIWa_EemXE9gMk7_GjQ" sendEvent="_pkubIGa_EemXE9gMk7_GjQ" connector="_pkubFGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkubPma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pkubPGa_EemXE9gMk7_GjQ" sendEvent="_pkubO2a_EemXE9gMk7_GjQ" connector="_pkubFGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubP2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pkubJGa_EemXE9gMk7_GjQ" sendEvent="_pkubI2a_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubQGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pkubJ2a_EemXE9gMk7_GjQ" sendEvent="_pkubJma_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubQWa_EemXE9gMk7_GjQ" name="exists ID" receiveEvent="_pkubKWa_EemXE9gMk7_GjQ" sendEvent="_pkubKGa_EemXE9gMk7_GjQ" connector="_pkubF2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubQma_EemXE9gMk7_GjQ" name="exists ID" messageSort="reply" receiveEvent="_pkubLGa_EemXE9gMk7_GjQ" sendEvent="_pkubK2a_EemXE9gMk7_GjQ" connector="_pkubF2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubQ2a_EemXE9gMk7_GjQ" name="desactivar" receiveEvent="_pkubMma_EemXE9gMk7_GjQ" sendEvent="_pkubMWa_EemXE9gMk7_GjQ" connector="_pkubF2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pkubRGa_EemXE9gMk7_GjQ" name="desactivar" messageSort="reply" receiveEvent="_pkubNWa_EemXE9gMk7_GjQ" sendEvent="_pkubNGa_EemXE9gMk7_GjQ" connector="_pkubF2a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkubRWa_EemXE9gMk7_GjQ" name="informar" receiveEvent="_pkubN2a_EemXE9gMk7_GjQ" sendEvent="_pkubNma_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pkubRma_EemXE9gMk7_GjQ" name="informar" messageSort="reply" receiveEvent="_pkubOma_EemXE9gMk7_GjQ" sendEvent="_pkubOWa_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkubRWa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pkubN2a_EemXE9gMk7_GjQ" sendEvent="_pkubNma_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pkubRma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pkubOma_EemXE9gMk7_GjQ" sendEvent="_pkubOWa_EemXE9gMk7_GjQ" connector="_pkubGma_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pkubR2a_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_ty7-vFO_Eem0neqgAT71PQ?1.%20Requisitos/Casos%20de%20Uso/Diseño/Usuario?"/>
@@ -368,8 +368,8 @@
         <ownedAttribute xmi:id="_pk4LMGa_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4LMWa_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4LMma_EemXE9gMk7_GjQ" name="SendOperationEvent1" operation="_pnHBrGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4LM2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent1" operation="_pnHBrGa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4LMma_EemXE9gMk7_GjQ" name="SendOperationEvent1"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4LM2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent1"/>
       <packagedElement xmi:type="uml:Component" xmi:id="_pk4LNGa_EemXE9gMk7_GjQ" name="Base de Datos">
         <ownedOperation xmi:id="_pk4LNWa_EemXE9gMk7_GjQ" name="exists ID"/>
         <ownedOperation xmi:id="_pk4LNma_EemXE9gMk7_GjQ" name="insert"/>
@@ -379,8 +379,8 @@
         <ownedOperation xmi:id="_pk4LOma_EemXE9gMk7_GjQ" name="buscarNombre"/>
         <ownedOperation xmi:id="_pk4LO2a_EemXE9gMk7_GjQ" name="existeUsuario"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4LPGa_EemXE9gMk7_GjQ" name="SendOperationEvent2" operation="_pnHBtGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4LPWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent2" operation="_pnHBtGa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4LPGa_EemXE9gMk7_GjQ" name="SendOperationEvent2"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4LPWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent2"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4LPma_EemXE9gMk7_GjQ" name="SendOperationEvent3" operation="_pk4LNWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4LP2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent3" operation="_pk4LNWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4LQGa_EemXE9gMk7_GjQ" name="ModificarDiseño">
@@ -584,16 +584,16 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4L2ma_EemXE9gMk7_GjQ" covered="_pk4Lvma_EemXE9gMk7_GjQ" event="_pk4OI2a_EemXE9gMk7_GjQ" message="_pk4L5ma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4L22a_EemXE9gMk7_GjQ" covered="_pk4Lvma_EemXE9gMk7_GjQ" event="_pk4L6ma_EemXE9gMk7_GjQ" message="_pk4L3ma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4L3Ga_EemXE9gMk7_GjQ" covered="_pk4LvWa_EemXE9gMk7_GjQ" event="_pk4L62a_EemXE9gMk7_GjQ" message="_pk4L3ma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4L3Wa_EemXE9gMk7_GjQ" name="modificar" receiveEvent="_pk4LwWa_EemXE9gMk7_GjQ" sendEvent="_pk4LwGa_EemXE9gMk7_GjQ" connector="_pk4LtGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4L3ma_EemXE9gMk7_GjQ" name="modificar" messageSort="reply" receiveEvent="_pk4L3Ga_EemXE9gMk7_GjQ" sendEvent="_pk4L22a_EemXE9gMk7_GjQ" connector="_pk4LtGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4L3Wa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4LwWa_EemXE9gMk7_GjQ" sendEvent="_pk4LwGa_EemXE9gMk7_GjQ" connector="_pk4LtGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4L3ma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4L3Ga_EemXE9gMk7_GjQ" sendEvent="_pk4L22a_EemXE9gMk7_GjQ" connector="_pk4LtGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L32a_EemXE9gMk7_GjQ" name="exists ID" receiveEvent="_pk4LyWa_EemXE9gMk7_GjQ" sendEvent="_pk4LyGa_EemXE9gMk7_GjQ" connector="_pk4Lt2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L4Ga_EemXE9gMk7_GjQ" name="exists ID" messageSort="reply" receiveEvent="_pk4LzGa_EemXE9gMk7_GjQ" sendEvent="_pk4Ly2a_EemXE9gMk7_GjQ" connector="_pk4Lt2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L4Wa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4LxGa_EemXE9gMk7_GjQ" sendEvent="_pk4Lw2a_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L4ma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4Lx2a_EemXE9gMk7_GjQ" sendEvent="_pk4Lxma_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L42a_EemXE9gMk7_GjQ" name="actualizar" receiveEvent="_pk4L0ma_EemXE9gMk7_GjQ" sendEvent="_pk4L0Wa_EemXE9gMk7_GjQ" connector="_pk4Lt2a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4L5Ga_EemXE9gMk7_GjQ" name="actualizar" messageSort="reply" receiveEvent="_pk4L1Wa_EemXE9gMk7_GjQ" sendEvent="_pk4L1Ga_EemXE9gMk7_GjQ" connector="_pk4Lt2a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4L5Wa_EemXE9gMk7_GjQ" name="informar" receiveEvent="_pk4L12a_EemXE9gMk7_GjQ" sendEvent="_pk4L1ma_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4L5ma_EemXE9gMk7_GjQ" name="informar" messageSort="reply" receiveEvent="_pk4L2ma_EemXE9gMk7_GjQ" sendEvent="_pk4L2Wa_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4L5Wa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4L12a_EemXE9gMk7_GjQ" sendEvent="_pk4L1ma_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4L5ma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4L2ma_EemXE9gMk7_GjQ" sendEvent="_pk4L2Wa_EemXE9gMk7_GjQ" connector="_pk4Luma_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4L52a_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_ty7-vFO_Eem0neqgAT71PQ?1.%20Requisitos/Casos%20de%20Uso/Diseño/Usuario?"/>
@@ -601,8 +601,8 @@
         <ownedAttribute xmi:id="_pk4L6Ga_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4L6Wa_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4L6ma_EemXE9gMk7_GjQ" name="SendOperationEvent4" operation="_pnHBwma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4L62a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent4" operation="_pnHBwma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4L6ma_EemXE9gMk7_GjQ" name="SendOperationEvent4"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4L62a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent4"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4L7Ga_EemXE9gMk7_GjQ" name="SendOperationEvent5" operation="_pk4LNma_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4L7Wa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent5" operation="_pk4LNma_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4L7ma_EemXE9gMk7_GjQ" name="SendOperationEvent6" operation="_pk4LN2a_EemXE9gMk7_GjQ"/>
@@ -759,12 +759,12 @@
           </fragment>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4MZWa_EemXE9gMk7_GjQ" covered="_pk4MUGa_EemXE9gMk7_GjQ" event="_pk4McGa_EemXE9gMk7_GjQ" message="_pk4MaGa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4MZma_EemXE9gMk7_GjQ" covered="_pk4MT2a_EemXE9gMk7_GjQ" event="_pk4McWa_EemXE9gMk7_GjQ" message="_pk4MaGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4MZ2a_EemXE9gMk7_GjQ" name="listar" receiveEvent="_pk4MU2a_EemXE9gMk7_GjQ" sendEvent="_pk4MUma_EemXE9gMk7_GjQ" connector="_pk4MRma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4MaGa_EemXE9gMk7_GjQ" name="listar" messageSort="reply" receiveEvent="_pk4MZma_EemXE9gMk7_GjQ" sendEvent="_pk4MZWa_EemXE9gMk7_GjQ" connector="_pk4MRma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4MZ2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4MU2a_EemXE9gMk7_GjQ" sendEvent="_pk4MUma_EemXE9gMk7_GjQ" connector="_pk4MRma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4MaGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4MZma_EemXE9gMk7_GjQ" sendEvent="_pk4MZWa_EemXE9gMk7_GjQ" connector="_pk4MRma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4MaWa_EemXE9gMk7_GjQ" name="exists ID" receiveEvent="_pk4MXGa_EemXE9gMk7_GjQ" sendEvent="_pk4MW2a_EemXE9gMk7_GjQ" connector="_pk4MSWa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4Mama_EemXE9gMk7_GjQ" name="exists ID" messageSort="reply" receiveEvent="_pk4MX2a_EemXE9gMk7_GjQ" sendEvent="_pk4MXma_EemXE9gMk7_GjQ" connector="_pk4MSWa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Ma2a_EemXE9gMk7_GjQ" name="mostrarDiseño" receiveEvent="_pk4MYWa_EemXE9gMk7_GjQ" sendEvent="_pk4MYGa_EemXE9gMk7_GjQ" connector="_pk4MTGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4MbGa_EemXE9gMk7_GjQ" name="mostrarDiseño" messageSort="reply" receiveEvent="_pk4MZGa_EemXE9gMk7_GjQ" sendEvent="_pk4MY2a_EemXE9gMk7_GjQ" connector="_pk4MTGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Ma2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4MYWa_EemXE9gMk7_GjQ" sendEvent="_pk4MYGa_EemXE9gMk7_GjQ" connector="_pk4MTGa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4MbGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4MZGa_EemXE9gMk7_GjQ" sendEvent="_pk4MY2a_EemXE9gMk7_GjQ" connector="_pk4MTGa_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4MbWa_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_ty7-vFO_Eem0neqgAT71PQ?1.%20Requisitos/Casos%20de%20Uso/Diseño/Usuario?"/>
@@ -772,8 +772,8 @@
         <ownedAttribute xmi:id="_pk4Mbma_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4Mb2a_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4McGa_EemXE9gMk7_GjQ" name="SendOperationEvent8" operation="_pnHBvWa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4McWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent8" operation="_pnHBvWa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4McGa_EemXE9gMk7_GjQ" name="SendOperationEvent8"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4McWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent8"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4Mcma_EemXE9gMk7_GjQ" name="ListarDiseñosUsuario">
         <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pk4Mc2a_EemXE9gMk7_GjQ" name="ListarDiseñosUsuario">
           <eAnnotations xmi:id="_pk4MdGa_EemXE9gMk7_GjQ" source="uml2.diagrams">
@@ -1000,14 +1000,14 @@
           </fragment>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4NHma_EemXE9gMk7_GjQ" covered="_pk4M-2a_EemXE9gMk7_GjQ" event="_pk4NLWa_EemXE9gMk7_GjQ" message="_pk4NIWa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4NH2a_EemXE9gMk7_GjQ" covered="_pk4M-ma_EemXE9gMk7_GjQ" event="_pk4NLma_EemXE9gMk7_GjQ" message="_pk4NIWa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NIGa_EemXE9gMk7_GjQ" name="listarUsuario" receiveEvent="_pk4M_ma_EemXE9gMk7_GjQ" sendEvent="_pk4M_Wa_EemXE9gMk7_GjQ" connector="_pk4M8Wa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NIWa_EemXE9gMk7_GjQ" name="listarUsuario" messageSort="reply" receiveEvent="_pk4NH2a_EemXE9gMk7_GjQ" sendEvent="_pk4NHma_EemXE9gMk7_GjQ" connector="_pk4M8Wa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NIGa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4M_ma_EemXE9gMk7_GjQ" sendEvent="_pk4M_Wa_EemXE9gMk7_GjQ" connector="_pk4M8Wa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NIWa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4NH2a_EemXE9gMk7_GjQ" sendEvent="_pk4NHma_EemXE9gMk7_GjQ" connector="_pk4M8Wa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NIma_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4NAWa_EemXE9gMk7_GjQ" sendEvent="_pk4NAGa_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NI2a_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4NBGa_EemXE9gMk7_GjQ" sendEvent="_pk4NA2a_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NJGa_EemXE9gMk7_GjQ" name="existeUsuario" receiveEvent="_pk4NBma_EemXE9gMk7_GjQ" sendEvent="_pk4NBWa_EemXE9gMk7_GjQ" connector="_pk4M92a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NJWa_EemXE9gMk7_GjQ" name="existeUsuario" messageSort="reply" receiveEvent="_pk4NCWa_EemXE9gMk7_GjQ" sendEvent="_pk4NCGa_EemXE9gMk7_GjQ" connector="_pk4M92a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NJma_EemXE9gMk7_GjQ" name="mostrarDiseño" receiveEvent="_pk4NGma_EemXE9gMk7_GjQ" sendEvent="_pk4NGWa_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NJ2a_EemXE9gMk7_GjQ" name="mostrarDiseño" messageSort="reply" receiveEvent="_pk4NHWa_EemXE9gMk7_GjQ" sendEvent="_pk4NHGa_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NJma_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4NGma_EemXE9gMk7_GjQ" sendEvent="_pk4NGWa_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NJ2a_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4NHWa_EemXE9gMk7_GjQ" sendEvent="_pk4NHGa_EemXE9gMk7_GjQ" connector="_pk4M9Ga_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NKGa_EemXE9gMk7_GjQ" name="exists ID" receiveEvent="_pk4NFWa_EemXE9gMk7_GjQ" sendEvent="_pk4NFGa_EemXE9gMk7_GjQ" connector="_pk4M92a_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NKWa_EemXE9gMk7_GjQ" name="exists ID" messageSort="reply" receiveEvent="_pk4NGGa_EemXE9gMk7_GjQ" sendEvent="_pk4NF2a_EemXE9gMk7_GjQ" connector="_pk4M92a_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
@@ -1017,8 +1017,8 @@
         <ownedAttribute xmi:id="_pk4NK2a_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4NLGa_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4NLWa_EemXE9gMk7_GjQ" name="SendOperationEvent9" operation="_pnHBv2a_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4NLma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent9" operation="_pnHBv2a_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4NLWa_EemXE9gMk7_GjQ" name="SendOperationEvent9"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4NLma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent9"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4NL2a_EemXE9gMk7_GjQ" name="BuscarDiseñoId">
         <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pk4NMGa_EemXE9gMk7_GjQ" name="BuscarDiseñoId">
           <eAnnotations xmi:id="_pk4NMWa_EemXE9gMk7_GjQ" source="uml2.diagrams">
@@ -1166,14 +1166,14 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4No2a_EemXE9gMk7_GjQ" covered="_pk4NkGa_EemXE9gMk7_GjQ" event="_pk4OI2a_EemXE9gMk7_GjQ" message="_pk4NrWa_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4NpGa_EemXE9gMk7_GjQ" covered="_pk4NkGa_EemXE9gMk7_GjQ" event="_pk4NsWa_EemXE9gMk7_GjQ" message="_pk4Np2a_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4NpWa_EemXE9gMk7_GjQ" covered="_pk4Nj2a_EemXE9gMk7_GjQ" event="_pk4Nsma_EemXE9gMk7_GjQ" message="_pk4Np2a_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Npma_EemXE9gMk7_GjQ" name="buscarId" receiveEvent="_pk4Nk2a_EemXE9gMk7_GjQ" sendEvent="_pk4Nkma_EemXE9gMk7_GjQ" connector="_pk4Nhma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4Np2a_EemXE9gMk7_GjQ" name="buscarId" messageSort="reply" receiveEvent="_pk4NpWa_EemXE9gMk7_GjQ" sendEvent="_pk4NpGa_EemXE9gMk7_GjQ" connector="_pk4Nhma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Npma_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4Nk2a_EemXE9gMk7_GjQ" sendEvent="_pk4Nkma_EemXE9gMk7_GjQ" connector="_pk4Nhma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4Np2a_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4NpWa_EemXE9gMk7_GjQ" sendEvent="_pk4NpGa_EemXE9gMk7_GjQ" connector="_pk4Nhma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NqGa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4Nlma_EemXE9gMk7_GjQ" sendEvent="_pk4NlWa_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4NqWa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4NmWa_EemXE9gMk7_GjQ" sendEvent="_pk4NmGa_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4Nqma_EemXE9gMk7_GjQ" name="exists ID" receiveEvent="_pk4Nm2a_EemXE9gMk7_GjQ" sendEvent="_pk4Nmma_EemXE9gMk7_GjQ" connector="_pk4NjGa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4Nq2a_EemXE9gMk7_GjQ" name="exists ID" messageSort="reply" receiveEvent="_pk4Nnma_EemXE9gMk7_GjQ" sendEvent="_pk4NnWa_EemXE9gMk7_GjQ" connector="_pk4NjGa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NrGa_EemXE9gMk7_GjQ" name="informar" receiveEvent="_pk4NoGa_EemXE9gMk7_GjQ" sendEvent="_pk4Nn2a_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4NrWa_EemXE9gMk7_GjQ" name="informar" messageSort="reply" receiveEvent="_pk4No2a_EemXE9gMk7_GjQ" sendEvent="_pk4Noma_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NrGa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4NoGa_EemXE9gMk7_GjQ" sendEvent="_pk4Nn2a_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4NrWa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4No2a_EemXE9gMk7_GjQ" sendEvent="_pk4Noma_EemXE9gMk7_GjQ" connector="_pk4NiWa_EemXE9gMk7_GjQ"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4Nrma_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_ty7-vFO_Eem0neqgAT71PQ?1.%20Requisitos/Casos%20de%20Uso/Diseño/Usuario?"/>
@@ -1181,8 +1181,8 @@
         <ownedAttribute xmi:id="_pk4Nr2a_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4NsGa_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4NsWa_EemXE9gMk7_GjQ" name="SendOperationEvent10" operation="_pnHBt2a_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4Nsma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent10" operation="_pnHBt2a_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4NsWa_EemXE9gMk7_GjQ" name="SendOperationEvent10"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4Nsma_EemXE9gMk7_GjQ" name="ReceiveOperationEvent10"/>
       <packagedElement xmi:type="uml:Collaboration" xmi:id="_pk4Ns2a_EemXE9gMk7_GjQ" name="BuscarDiseñoPalabraClave">
         <ownedBehavior xmi:type="uml:Interaction" xmi:id="_pk4NtGa_EemXE9gMk7_GjQ" name="BuscarDiseñoPalabraClave">
           <eAnnotations xmi:id="_pk4NtWa_EemXE9gMk7_GjQ" source="uml2.diagrams">
@@ -1305,8 +1305,8 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4OEma_EemXE9gMk7_GjQ" covered="_pk4OBGa_EemXE9gMk7_GjQ" event="_pk4OJ2a_EemXE9gMk7_GjQ" message="_pk4OGma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4OE2a_EemXE9gMk7_GjQ" covered="_pk4OBGa_EemXE9gMk7_GjQ" event="_pk4OHma_EemXE9gMk7_GjQ" message="_pk4OFma_EemXE9gMk7_GjQ"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_pk4OFGa_EemXE9gMk7_GjQ" covered="_pk4OA2a_EemXE9gMk7_GjQ" event="_pk4OH2a_EemXE9gMk7_GjQ" message="_pk4OFma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4OFWa_EemXE9gMk7_GjQ" name="buscarPalabraClave" receiveEvent="_pk4OB2a_EemXE9gMk7_GjQ" sendEvent="_pk4OBma_EemXE9gMk7_GjQ" connector="_pk4N-ma_EemXE9gMk7_GjQ"/>
-          <message xmi:id="_pk4OFma_EemXE9gMk7_GjQ" name="buscarPalabraClave" messageSort="reply" receiveEvent="_pk4OFGa_EemXE9gMk7_GjQ" sendEvent="_pk4OE2a_EemXE9gMk7_GjQ" connector="_pk4N-ma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4OFWa_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4OB2a_EemXE9gMk7_GjQ" sendEvent="_pk4OBma_EemXE9gMk7_GjQ" connector="_pk4N-ma_EemXE9gMk7_GjQ"/>
+          <message xmi:id="_pk4OFma_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4OFGa_EemXE9gMk7_GjQ" sendEvent="_pk4OE2a_EemXE9gMk7_GjQ" connector="_pk4N-ma_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4OF2a_EemXE9gMk7_GjQ" name="\Sin especificar\" receiveEvent="_pk4OCma_EemXE9gMk7_GjQ" sendEvent="_pk4OCWa_EemXE9gMk7_GjQ" connector="_pk4N_Wa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4OGGa_EemXE9gMk7_GjQ" name="\Sin especificar\" messageSort="reply" receiveEvent="_pk4ODWa_EemXE9gMk7_GjQ" sendEvent="_pk4ODGa_EemXE9gMk7_GjQ" connector="_pk4N_Wa_EemXE9gMk7_GjQ"/>
           <message xmi:id="_pk4OGWa_EemXE9gMk7_GjQ" name="buscarNombre" receiveEvent="_pk4OD2a_EemXE9gMk7_GjQ" sendEvent="_pk4ODma_EemXE9gMk7_GjQ" connector="_pk4OAGa_EemXE9gMk7_GjQ"/>
@@ -1318,18 +1318,18 @@
         <ownedAttribute xmi:id="_pk4OHGa_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_pk4OHWa_EemXE9gMk7_GjQ" name="base de Datos" type="_pk4LNGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OHma_EemXE9gMk7_GjQ" name="SendOperationEvent11" operation="_pnHBuma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OH2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent11" operation="_pnHBuma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OHma_EemXE9gMk7_GjQ" name="SendOperationEvent11"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OH2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent11"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OIGa_EemXE9gMk7_GjQ" name="SendOperationEvent12"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OIWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent12"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OIma_EemXE9gMk7_GjQ" name="SendOperationEvent13" operation="_pnHBxWa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OI2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent13" operation="_pnHBxWa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OIma_EemXE9gMk7_GjQ" name="SendOperationEvent13"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OI2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent13"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OJGa_EemXE9gMk7_GjQ" name="SendOperationEvent14" operation="_pk4LOWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OJWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent14" operation="_pk4LOWa_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OJma_EemXE9gMk7_GjQ" name="SendOperationEvent15" operation="_pk4LOma_EemXE9gMk7_GjQ"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OJ2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent15" operation="_pk4LOma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OKGa_EemXE9gMk7_GjQ" name="SendOperationEvent16" operation="_pnHBxma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OKWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent16" operation="_pnHBxma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OKGa_EemXE9gMk7_GjQ" name="SendOperationEvent16"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OKWa_EemXE9gMk7_GjQ" name="ReceiveOperationEvent16"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OKma_EemXE9gMk7_GjQ" name="SendOperationEvent17"/>
       <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_pk4OK2a_EemXE9gMk7_GjQ" name="ReceiveOperationEvent17"/>
       <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_pk4OLGa_EemXE9gMk7_GjQ" name="SendOperationEvent18" operation="_pk4LO2a_EemXE9gMk7_GjQ"/>
@@ -1568,18 +1568,18 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_P5tLxnJrEemyV5FHHbJ4OA" covered="_pk4OSGa_EemXE9gMk7_GjQ" event="_o6-jwnJeEemyV5FHHbJ4OA" message="_P5tLxXJrEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_D1ucgXJrEemyV5FHHbJ4OA" covered="_pk4OSGa_EemXE9gMk7_GjQ" event="_FKsEUHJrEemyV5FHHbJ4OA" message="_D1ucgnJrEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_D1ucg3JrEemyV5FHHbJ4OA" covered="_pk4OR2a_EemXE9gMk7_GjQ" event="_FKsEUXJrEemyV5FHHbJ4OA" message="_D1ucgnJrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_D1krgHJrEemyV5FHHbJ4OA" name="altaImpresora" receiveEvent="_D1krgnJrEemyV5FHHbJ4OA" sendEvent="_D1krgXJrEemyV5FHHbJ4OA" connector="_D1uchHJrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_D1ucgnJrEemyV5FHHbJ4OA" name="altaImpresora" messageSort="reply" receiveEvent="_D1ucg3JrEemyV5FHHbJ4OA" sendEvent="_D1ucgXJrEemyV5FHHbJ4OA" connector="_D1uchHJrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_GMtiAHJrEemyV5FHHbJ4OA" name="pedirDatos" receiveEvent="_GMtiAnJrEemyV5FHHbJ4OA" sendEvent="_GMtiAXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_GMtiBXJrEemyV5FHHbJ4OA" name="pedirDatos" messageSort="reply" receiveEvent="_GMtiBnJrEemyV5FHHbJ4OA" sendEvent="_GMtiBHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_D1krgHJrEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_D1krgnJrEemyV5FHHbJ4OA" sendEvent="_D1krgXJrEemyV5FHHbJ4OA" connector="_D1uchHJrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_D1ucgnJrEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_D1ucg3JrEemyV5FHHbJ4OA" sendEvent="_D1ucgXJrEemyV5FHHbJ4OA" connector="_D1uchHJrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_GMtiAHJrEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_GMtiAnJrEemyV5FHHbJ4OA" sendEvent="_GMtiAXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_GMtiBXJrEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_GMtiBnJrEemyV5FHHbJ4OA" sendEvent="_GMtiBHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
           <message xmi:id="_HygbIHJrEemyV5FHHbJ4OA" name="validarDatos" receiveEvent="_HygbInJrEemyV5FHHbJ4OA" sendEvent="_HygbIXJrEemyV5FHHbJ4OA" connector="_HygbJ3JrEemyV5FHHbJ4OA"/>
           <message xmi:id="_HygbJXJrEemyV5FHHbJ4OA" name="validarDatos" messageSort="reply" receiveEvent="_HygbJnJrEemyV5FHHbJ4OA" sendEvent="_HygbJHJrEemyV5FHHbJ4OA" connector="_HygbJ3JrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_MonOcHJrEemyV5FHHbJ4OA" name="pedirDatos" receiveEvent="_MonOcnJrEemyV5FHHbJ4OA" sendEvent="_MonOcXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_MonOdXJrEemyV5FHHbJ4OA" name="pedirDatos" messageSort="reply" receiveEvent="_MonOdnJrEemyV5FHHbJ4OA" sendEvent="_MonOdHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_MonOcHJrEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_MonOcnJrEemyV5FHHbJ4OA" sendEvent="_MonOcXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_MonOdXJrEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_MonOdnJrEemyV5FHHbJ4OA" sendEvent="_MonOdHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
           <message xmi:id="_O56isHJrEemyV5FHHbJ4OA" name="insert" receiveEvent="_O56isnJrEemyV5FHHbJ4OA" sendEvent="_O56isXJrEemyV5FHHbJ4OA" connector="_HygbJ3JrEemyV5FHHbJ4OA"/>
           <message xmi:id="_O56itXJrEemyV5FHHbJ4OA" name="insert" messageSort="reply" receiveEvent="_O56itnJrEemyV5FHHbJ4OA" sendEvent="_O56itHJrEemyV5FHHbJ4OA" connector="_HygbJ3JrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_P5tLwHJrEemyV5FHHbJ4OA" name="informar" receiveEvent="_P5tLwnJrEemyV5FHHbJ4OA" sendEvent="_P5tLwXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
-          <message xmi:id="_P5tLxXJrEemyV5FHHbJ4OA" name="informar" messageSort="reply" receiveEvent="_P5tLxnJrEemyV5FHHbJ4OA" sendEvent="_P5tLxHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_P5tLwHJrEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_P5tLwnJrEemyV5FHHbJ4OA" sendEvent="_P5tLwXJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
+          <message xmi:id="_P5tLxXJrEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_P5tLxnJrEemyV5FHHbJ4OA" sendEvent="_P5tLxHJrEemyV5FHHbJ4OA" connector="_GMtiB3JrEemyV5FHHbJ4OA"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4OSWa_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_b7_fwEAUEemkRq9kYeOc-A?1.%20Requisitos/Casos%20de%20Uso/Impresora/Usuario?"/>
@@ -1789,16 +1789,16 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_9rXzFnJqEemyV5FHHbJ4OA" covered="_pk4OYma_EemXE9gMk7_GjQ" event="_o6-jwnJeEemyV5FHHbJ4OA" message="_9rXzFXJqEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_016ORHJqEemyV5FHHbJ4OA" covered="_pk4OYma_EemXE9gMk7_GjQ" event="_1KxrAHJqEemyV5FHHbJ4OA" message="_016ORXJqEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_016ORnJqEemyV5FHHbJ4OA" covered="_pk4OYWa_EemXE9gMk7_GjQ" event="_1KxrAXJqEemyV5FHHbJ4OA" message="_016ORXJqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_016OQHJqEemyV5FHHbJ4OA" name="bajaImpresora" receiveEvent="_016OQnJqEemyV5FHHbJ4OA" sendEvent="_016OQXJqEemyV5FHHbJ4OA" connector="_016OR3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_016ORXJqEemyV5FHHbJ4OA" name="bajaImpresora" messageSort="reply" receiveEvent="_016ORnJqEemyV5FHHbJ4OA" sendEvent="_016ORHJqEemyV5FHHbJ4OA" connector="_016OR3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_19vZAHJqEemyV5FHHbJ4OA" name="getId_impresora" receiveEvent="_19vZAnJqEemyV5FHHbJ4OA" sendEvent="_19vZAXJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_19vZBXJqEemyV5FHHbJ4OA" name="getId_impresora" messageSort="reply" receiveEvent="_19vZBnJqEemyV5FHHbJ4OA" sendEvent="_19vZBHJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_016OQHJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_016OQnJqEemyV5FHHbJ4OA" sendEvent="_016OQXJqEemyV5FHHbJ4OA" connector="_016OR3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_016ORXJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_016ORnJqEemyV5FHHbJ4OA" sendEvent="_016ORHJqEemyV5FHHbJ4OA" connector="_016OR3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_19vZAHJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_19vZAnJqEemyV5FHHbJ4OA" sendEvent="_19vZAXJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_19vZBXJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_19vZBnJqEemyV5FHHbJ4OA" sendEvent="_19vZBHJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
           <message xmi:id="_4h_ecHJqEemyV5FHHbJ4OA" name="existeID" receiveEvent="_4h_ecnJqEemyV5FHHbJ4OA" sendEvent="_4h_ecXJqEemyV5FHHbJ4OA" connector="_4h_ed3JqEemyV5FHHbJ4OA"/>
           <message xmi:id="_4h_edXJqEemyV5FHHbJ4OA" name="existeID" messageSort="reply" receiveEvent="_4h_ednJqEemyV5FHHbJ4OA" sendEvent="_4h_edHJqEemyV5FHHbJ4OA" connector="_4h_ed3JqEemyV5FHHbJ4OA"/>
           <message xmi:id="_7-RYEHJqEemyV5FHHbJ4OA" name="desactivar" receiveEvent="_7-RYEnJqEemyV5FHHbJ4OA" sendEvent="_7-RYEXJqEemyV5FHHbJ4OA" connector="_4h_ed3JqEemyV5FHHbJ4OA"/>
           <message xmi:id="_7-RYFXJqEemyV5FHHbJ4OA" name="desactivar" messageSort="reply" receiveEvent="_7-RYFnJqEemyV5FHHbJ4OA" sendEvent="_7-RYFHJqEemyV5FHHbJ4OA" connector="_4h_ed3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_9rXzEHJqEemyV5FHHbJ4OA" name="informar" receiveEvent="_9rXzEnJqEemyV5FHHbJ4OA" sendEvent="_9rXzEXJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_9rXzFXJqEemyV5FHHbJ4OA" name="informar" messageSort="reply" receiveEvent="_9rXzFnJqEemyV5FHHbJ4OA" sendEvent="_9rXzFHJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_9rXzEHJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_9rXzEnJqEemyV5FHHbJ4OA" sendEvent="_9rXzEXJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_9rXzFXJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_9rXzFnJqEemyV5FHHbJ4OA" sendEvent="_9rXzFHJqEemyV5FHHbJ4OA" connector="_19vZB3JqEemyV5FHHbJ4OA"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4OY2a_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_b7_fwEAUEemkRq9kYeOc-A?1.%20Requisitos/Casos%20de%20Uso/Impresora/Usuario?"/>
@@ -1956,14 +1956,14 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_l7depnJeEemyV5FHHbJ4OA" covered="_pk4OfGa_EemXE9gMk7_GjQ" event="_o6-jwnJeEemyV5FHHbJ4OA" message="_l7depXJeEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_RWatRHJeEemyV5FHHbJ4OA" covered="_pk4OfGa_EemXE9gMk7_GjQ" event="_C9DlkHJfEemyV5FHHbJ4OA" message="_RWatRXJeEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_RWatRnJeEemyV5FHHbJ4OA" covered="_pk4Oe2a_EemXE9gMk7_GjQ" event="_C9DlkXJfEemyV5FHHbJ4OA" message="_RWatRXJeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_RWatQHJeEemyV5FHHbJ4OA" name="buscarID" receiveEvent="_RWatQnJeEemyV5FHHbJ4OA" sendEvent="_RWatQXJeEemyV5FHHbJ4OA" connector="_RWatR3JeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_RWatRXJeEemyV5FHHbJ4OA" name="buscarID" messageSort="reply" receiveEvent="_RWatRnJeEemyV5FHHbJ4OA" sendEvent="_RWatRHJeEemyV5FHHbJ4OA" connector="_RWatR3JeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_YOfYUHJeEemyV5FHHbJ4OA" name="getId_impresora" receiveEvent="_YOfYUnJeEemyV5FHHbJ4OA" sendEvent="_YOfYUXJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_YOfYVXJeEemyV5FHHbJ4OA" name="getId_impresora" messageSort="reply" receiveEvent="_YOfYVnJeEemyV5FHHbJ4OA" sendEvent="_YOfYVHJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_RWatQHJeEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_RWatQnJeEemyV5FHHbJ4OA" sendEvent="_RWatQXJeEemyV5FHHbJ4OA" connector="_RWatR3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_RWatRXJeEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_RWatRnJeEemyV5FHHbJ4OA" sendEvent="_RWatRHJeEemyV5FHHbJ4OA" connector="_RWatR3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_YOfYUHJeEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_YOfYUnJeEemyV5FHHbJ4OA" sendEvent="_YOfYUXJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_YOfYVXJeEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_YOfYVnJeEemyV5FHHbJ4OA" sendEvent="_YOfYVHJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
           <message xmi:id="_jfRJAHJeEemyV5FHHbJ4OA" name="existeID" receiveEvent="_jfRJAnJeEemyV5FHHbJ4OA" sendEvent="_jfRJAXJeEemyV5FHHbJ4OA" connector="_jfRJB3JeEemyV5FHHbJ4OA"/>
           <message xmi:id="_jfRJBXJeEemyV5FHHbJ4OA" name="existeID" messageSort="reply" receiveEvent="_jfRJBnJeEemyV5FHHbJ4OA" sendEvent="_jfRJBHJeEemyV5FHHbJ4OA" connector="_jfRJB3JeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_l7deoHJeEemyV5FHHbJ4OA" name="informar" receiveEvent="_l7deonJeEemyV5FHHbJ4OA" sendEvent="_l7deoXJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
-          <message xmi:id="_l7depXJeEemyV5FHHbJ4OA" name="informar" messageSort="reply" receiveEvent="_l7depnJeEemyV5FHHbJ4OA" sendEvent="_l7depHJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_l7deoHJeEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_l7deonJeEemyV5FHHbJ4OA" sendEvent="_l7deoXJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
+          <message xmi:id="_l7depXJeEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_l7depnJeEemyV5FHHbJ4OA" sendEvent="_l7depHJeEemyV5FHHbJ4OA" connector="_YOfYV3JeEemyV5FHHbJ4OA"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4OfWa_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_b7_fwEAUEemkRq9kYeOc-A?1.%20Requisitos/Casos%20de%20Uso/Impresora/Usuario?"/>
@@ -2197,14 +2197,14 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_nnly1nJqEemyV5FHHbJ4OA" covered="_pk4OsGa_EemXE9gMk7_GjQ" event="_o6-jwnJeEemyV5FHHbJ4OA" message="_nnly1XJqEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bkJ2JHJqEemyV5FHHbJ4OA" covered="_pk4OsGa_EemXE9gMk7_GjQ" event="_cPhuYHJqEemyV5FHHbJ4OA" message="_bkJ2JXJqEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_bkJ2JnJqEemyV5FHHbJ4OA" covered="_pk4Or2a_EemXE9gMk7_GjQ" event="_cPhuYXJqEemyV5FHHbJ4OA" message="_bkJ2JXJqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_bkJ2IHJqEemyV5FHHbJ4OA" name="modificarImpresora" receiveEvent="_bkJ2InJqEemyV5FHHbJ4OA" sendEvent="_bkJ2IXJqEemyV5FHHbJ4OA" connector="_bkJ2J3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_bkJ2JXJqEemyV5FHHbJ4OA" name="modificarImpresora" messageSort="reply" receiveEvent="_bkJ2JnJqEemyV5FHHbJ4OA" sendEvent="_bkJ2JHJqEemyV5FHHbJ4OA" connector="_bkJ2J3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_dSlt4HJqEemyV5FHHbJ4OA" name="pedirDatos" receiveEvent="_dSve4XJqEemyV5FHHbJ4OA" sendEvent="_dSve4HJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_dSve5HJqEemyV5FHHbJ4OA" name="pedirDatos" messageSort="reply" receiveEvent="_dSve5XJqEemyV5FHHbJ4OA" sendEvent="_dSve43JqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_bkJ2IHJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_bkJ2InJqEemyV5FHHbJ4OA" sendEvent="_bkJ2IXJqEemyV5FHHbJ4OA" connector="_bkJ2J3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_bkJ2JXJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_bkJ2JnJqEemyV5FHHbJ4OA" sendEvent="_bkJ2JHJqEemyV5FHHbJ4OA" connector="_bkJ2J3JqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_dSlt4HJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_dSve4XJqEemyV5FHHbJ4OA" sendEvent="_dSve4HJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_dSve5HJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_dSve5XJqEemyV5FHHbJ4OA" sendEvent="_dSve43JqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
           <message xmi:id="_i27gMHJqEemyV5FHHbJ4OA" name="actualizar" receiveEvent="_i27gMnJqEemyV5FHHbJ4OA" sendEvent="_i27gMXJqEemyV5FHHbJ4OA" connector="_i27gN3JqEemyV5FHHbJ4OA"/>
           <message xmi:id="_i27gNXJqEemyV5FHHbJ4OA" name="actualizar" messageSort="reply" receiveEvent="_i27gNnJqEemyV5FHHbJ4OA" sendEvent="_i27gNHJqEemyV5FHHbJ4OA" connector="_i27gN3JqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_nnly0HJqEemyV5FHHbJ4OA" name="informar" receiveEvent="_nnly0nJqEemyV5FHHbJ4OA" sendEvent="_nnly0XJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
-          <message xmi:id="_nnly1XJqEemyV5FHHbJ4OA" name="informar" messageSort="reply" receiveEvent="_nnly1nJqEemyV5FHHbJ4OA" sendEvent="_nnly1HJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_nnly0HJqEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_nnly0nJqEemyV5FHHbJ4OA" sendEvent="_nnly0XJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
+          <message xmi:id="_nnly1XJqEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_nnly1nJqEemyV5FHHbJ4OA" sendEvent="_nnly1HJqEemyV5FHHbJ4OA" connector="_dSve5nJqEemyV5FHHbJ4OA"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4OsWa_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_b7_fwEAUEemkRq9kYeOc-A?1.%20Requisitos/Casos%20de%20Uso/Impresora/Usuario?"/>
@@ -2414,16 +2414,16 @@
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_udRttnJpEemyV5FHHbJ4OA" covered="_pk4Oyma_EemXE9gMk7_GjQ" event="_o6-jwnJeEemyV5FHHbJ4OA" message="_udRttXJpEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_R3m_tHJnEemyV5FHHbJ4OA" covered="_pk4Oyma_EemXE9gMk7_GjQ" event="_S3GGwHJnEemyV5FHHbJ4OA" message="_R3m_tXJnEemyV5FHHbJ4OA"/>
           <fragment xmi:type="uml:MessageOccurrenceSpecification" xmi:id="_R3m_tnJnEemyV5FHHbJ4OA" covered="_pk4OyWa_EemXE9gMk7_GjQ" event="_S3GGwXJnEemyV5FHHbJ4OA" message="_R3m_tXJnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_R3m_sHJnEemyV5FHHbJ4OA" name="listarImpresoras" receiveEvent="_R3m_snJnEemyV5FHHbJ4OA" sendEvent="_R3m_sXJnEemyV5FHHbJ4OA" connector="_R3m_t3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_R3m_tXJnEemyV5FHHbJ4OA" name="listarImpresoras" messageSort="reply" receiveEvent="_R3m_tnJnEemyV5FHHbJ4OA" sendEvent="_R3m_tHJnEemyV5FHHbJ4OA" connector="_R3m_t3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_kSfmoHJnEemyV5FHHbJ4OA" name="getId_impresora" receiveEvent="_kSfmonJnEemyV5FHHbJ4OA" sendEvent="_kSfmoXJnEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_kSfmpXJnEemyV5FHHbJ4OA" name="getId_impresora" messageSort="reply" receiveEvent="_kSfmpnJnEemyV5FHHbJ4OA" sendEvent="_kSfmpHJnEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_R3m_sHJnEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_R3m_snJnEemyV5FHHbJ4OA" sendEvent="_R3m_sXJnEemyV5FHHbJ4OA" connector="_R3m_t3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_R3m_tXJnEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_R3m_tnJnEemyV5FHHbJ4OA" sendEvent="_R3m_tHJnEemyV5FHHbJ4OA" connector="_R3m_t3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_kSfmoHJnEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_kSfmonJnEemyV5FHHbJ4OA" sendEvent="_kSfmoXJnEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_kSfmpXJnEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_kSfmpnJnEemyV5FHHbJ4OA" sendEvent="_kSfmpHJnEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
           <message xmi:id="_oc-DAHJnEemyV5FHHbJ4OA" name="existeID" receiveEvent="_oc-DAnJnEemyV5FHHbJ4OA" sendEvent="_oc-DAXJnEemyV5FHHbJ4OA" connector="_oc-DB3JnEemyV5FHHbJ4OA"/>
           <message xmi:id="_oc-DBXJnEemyV5FHHbJ4OA" name="existeID" messageSort="reply" receiveEvent="_oc-DBnJnEemyV5FHHbJ4OA" sendEvent="_oc-DBHJnEemyV5FHHbJ4OA" connector="_oc-DB3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_LF8zwHJpEemyV5FHHbJ4OA" name="mostrarImpresora" receiveEvent="_LF8zwnJpEemyV5FHHbJ4OA" sendEvent="_LF8zwXJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_LF8zxXJpEemyV5FHHbJ4OA" name="mostrarImpresora" messageSort="reply" receiveEvent="_LF8zxnJpEemyV5FHHbJ4OA" sendEvent="_LF8zxHJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_udRtsHJpEemyV5FHHbJ4OA" name="informar" receiveEvent="_udRtsnJpEemyV5FHHbJ4OA" sendEvent="_udRtsXJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
-          <message xmi:id="_udRttXJpEemyV5FHHbJ4OA" name="informar" messageSort="reply" receiveEvent="_udRttnJpEemyV5FHHbJ4OA" sendEvent="_udRttHJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_LF8zwHJpEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_LF8zwnJpEemyV5FHHbJ4OA" sendEvent="_LF8zwXJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_LF8zxXJpEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_LF8zxnJpEemyV5FHHbJ4OA" sendEvent="_LF8zxHJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_udRtsHJpEemyV5FHHbJ4OA" name="\Sin especificar\" receiveEvent="_udRtsnJpEemyV5FHHbJ4OA" sendEvent="_udRtsXJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
+          <message xmi:id="_udRttXJpEemyV5FHHbJ4OA" name="\Sin especificar\" messageSort="reply" receiveEvent="_udRttnJpEemyV5FHHbJ4OA" sendEvent="_udRttHJpEemyV5FHHbJ4OA" connector="_kSfmp3JnEemyV5FHHbJ4OA"/>
         </ownedBehavior>
         <ownedAttribute xmi:id="_pk4Oy2a_EemXE9gMk7_GjQ" name="usuario">
           <type xmi:type="uml:Actor" href="Paquete%20en%20blanco.emx#_b7_fwEAUEemkRq9kYeOc-A?1.%20Requisitos/Casos%20de%20Uso/Impresora/Usuario?"/>
@@ -2431,26 +2431,26 @@
         <ownedAttribute xmi:id="_pk4OzGa_EemXE9gMk7_GjQ" name="impresora" type="_pnHCE2a_EemXE9gMk7_GjQ"/>
         <ownedAttribute xmi:id="_4jX7UnJmEemyV5FHHbJ4OA" name="base de datos" type="_pk4RRGa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Y78UMHJeEemyV5FHHbJ4OA" name="SendOperationEvent1" operation="_KI1_kG25EemclOYRGq73cA"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Y78UMXJeEemyV5FHHbJ4OA" name="ReceiveOperationEvent1" operation="_KI1_kG25EemclOYRGq73cA"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_Y78UMHJeEemyV5FHHbJ4OA" name="SendOperationEvent1"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_Y78UMXJeEemyV5FHHbJ4OA" name="ReceiveOperationEvent1"/>
       <packagedElement xmi:type="uml:Component" xmi:id="_cwjOQHJeEemyV5FHHbJ4OA" name="base de datos"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_o6-jwXJeEemyV5FHHbJ4OA" name="SendOperationEvent2" operation="_o6-jwHJeEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_o6-jwnJeEemyV5FHHbJ4OA" name="ReceiveOperationEvent2" operation="_o6-jwHJeEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_C9DlkHJfEemyV5FHHbJ4OA" name="SendOperationEvent3" operation="_pnHCLma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_C9DlkXJfEemyV5FHHbJ4OA" name="ReceiveOperationEvent3" operation="_pnHCLma_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_o6-jwXJeEemyV5FHHbJ4OA" name="SendOperationEvent2"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_o6-jwnJeEemyV5FHHbJ4OA" name="ReceiveOperationEvent2"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_C9DlkHJfEemyV5FHHbJ4OA" name="SendOperationEvent3"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_C9DlkXJfEemyV5FHHbJ4OA" name="ReceiveOperationEvent3"/>
       <packagedElement xmi:type="uml:Component" xmi:id="_giG6sHJmEemyV5FHHbJ4OA" name="base de datos"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_S3GGwHJnEemyV5FHHbJ4OA" name="SendOperationEvent4" operation="_pnHCMma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_S3GGwXJnEemyV5FHHbJ4OA" name="ReceiveOperationEvent4" operation="_pnHCMma_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_OQfdIXJpEemyV5FHHbJ4OA" name="SendOperationEvent5" operation="_OQfdIHJpEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_OQfdInJpEemyV5FHHbJ4OA" name="ReceiveOperationEvent5" operation="_OQfdIHJpEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_cPhuYHJqEemyV5FHHbJ4OA" name="SendOperationEvent6" operation="_pnHCM2a_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_cPhuYXJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent6" operation="_pnHCM2a_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_scGDoXJqEemyV5FHHbJ4OA" name="SendOperationEvent7" operation="_scGDoHJqEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_scGDonJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent7" operation="_scGDoHJqEemyV5FHHbJ4OA"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_1KxrAHJqEemyV5FHHbJ4OA" name="SendOperationEvent8" operation="_pnHCLGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_1KxrAXJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent8" operation="_pnHCLGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_FKsEUHJrEemyV5FHHbJ4OA" name="SendOperationEvent9" operation="_pnHCKGa_EemXE9gMk7_GjQ"/>
-      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_FKsEUXJrEemyV5FHHbJ4OA" name="ReceiveOperationEvent9" operation="_pnHCKGa_EemXE9gMk7_GjQ"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_S3GGwHJnEemyV5FHHbJ4OA" name="SendOperationEvent4"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_S3GGwXJnEemyV5FHHbJ4OA" name="ReceiveOperationEvent4"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_OQfdIXJpEemyV5FHHbJ4OA" name="SendOperationEvent5"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_OQfdInJpEemyV5FHHbJ4OA" name="ReceiveOperationEvent5"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_cPhuYHJqEemyV5FHHbJ4OA" name="SendOperationEvent6"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_cPhuYXJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent6"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_scGDoXJqEemyV5FHHbJ4OA" name="SendOperationEvent7"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_scGDonJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent7"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_1KxrAHJqEemyV5FHHbJ4OA" name="SendOperationEvent8"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_1KxrAXJqEemyV5FHHbJ4OA" name="ReceiveOperationEvent8"/>
+      <packagedElement xmi:type="uml:SendOperationEvent" xmi:id="_FKsEUHJrEemyV5FHHbJ4OA" name="SendOperationEvent9"/>
+      <packagedElement xmi:type="uml:ReceiveOperationEvent" xmi:id="_FKsEUXJrEemyV5FHHbJ4OA" name="ReceiveOperationEvent9"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_pk4OzWa_EemXE9gMk7_GjQ" name="Local">
       <eAnnotations xmi:id="_pk4Ozma_EemXE9gMk7_GjQ" source="uml2.diagrams"/>
@@ -7770,273 +7770,94 @@
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHBZGa_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHBZWa_EemXE9gMk7_GjQ" x="1980" y="792" width="9998"/>
           </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHBZma_EemXE9gMk7_GjQ" element="_pnHByGa_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" showListSignature="true" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBZ2a_EemXE9gMk7_GjQ" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_pnHBaGa_EemXE9gMk7_GjQ" width="1320" height="1320"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBaWa_EemXE9gMk7_GjQ" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBama_EemXE9gMk7_GjQ" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBa2a_EemXE9gMk7_GjQ" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHBbGa_EemXE9gMk7_GjQ" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHBbWa_EemXE9gMk7_GjQ" type="OperationCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHBbma_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHBb2a_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHBcGa_EemXE9gMk7_GjQ" x="17688" y="1584"/>
-          </children>
           <element xsi:nil="true"/>
-          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_pnHBcWa_EemXE9gMk7_GjQ" element="_pnHB22a_EemXE9gMk7_GjQ" source="_pnHBW2a_EemXE9gMk7_GjQ" target="_pnHBZma_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBcma_EemXE9gMk7_GjQ" type="NameLabel">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBc2a_EemXE9gMk7_GjQ" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBdGa_EemXE9gMk7_GjQ" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHBdWa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBdma_EemXE9gMk7_GjQ" type="ToMultiplicityLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBd2a_EemXE9gMk7_GjQ" type="ToMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBeGa_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBeWa_EemXE9gMk7_GjQ" type="ToRoleLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBema_EemXE9gMk7_GjQ" type="ToRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBe2a_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBfGa_EemXE9gMk7_GjQ" type="FromMultiplicityLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBfWa_EemXE9gMk7_GjQ" type="FromMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBfma_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBf2a_EemXE9gMk7_GjQ" type="FromRoleLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHBgGa_EemXE9gMk7_GjQ" type="FromRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBgWa_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBgma_EemXE9gMk7_GjQ" type="ToQualifierLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHBg2a_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBhGa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBhWa_EemXE9gMk7_GjQ" type="FromQualifierLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHBhma_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBh2a_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBiGa_EemXE9gMk7_GjQ" type="ToConstraintLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHBiWa_EemXE9gMk7_GjQ" type="ToConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBima_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHBi2a_EemXE9gMk7_GjQ" type="FromConstraintLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHBjGa_EemXE9gMk7_GjQ" type="FromConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHBjWa_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pnHBjma_EemXE9gMk7_GjQ" points="[2129, -3646, -5473, -1029]$[6056, -3646, -1546, -1029]"/>
-          </edges>
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Class" xmi:id="_pnHBj2a_EemXE9gMk7_GjQ" name="Diseño">
-        <ownedAttribute xmi:id="_pnHBkGa_EemXE9gMk7_GjQ" name="id_diseño" visibility="private">
+        <ownedAttribute xmi:id="_0ICwEH-6Eem2iuj1012QpQ" name="id_diseño" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBkWa_EemXE9gMk7_GjQ" name="nombre" visibility="private">
+        <ownedAttribute xmi:id="_0ICwEX-6Eem2iuj1012QpQ" name="nombre" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBkma_EemXE9gMk7_GjQ" name="propietario" visibility="private" type="_pnHA6Wa_EemXE9gMk7_GjQ"/>
-        <ownedAttribute xmi:id="_pnHBk2a_EemXE9gMk7_GjQ" name="dimensiones" visibility="private" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-        <ownedAttribute xmi:id="_pnHBlGa_EemXE9gMk7_GjQ" name="precio" visibility="private">
+        <ownedAttribute xmi:id="_0ICwEn-6Eem2iuj1012QpQ" name="descripcion" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_0ICwE3-6Eem2iuj1012QpQ" name="propietario" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_0IMhEH-6Eem2iuj1012QpQ" name="alto" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBlWa_EemXE9gMk7_GjQ" name="puntuacion" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        <ownedAttribute xmi:id="_0IMhEX-6Eem2iuj1012QpQ" name="ancho" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBlma_EemXE9gMk7_GjQ" name="descripcion" visibility="private">
+        <ownedAttribute xmi:id="_0IMhEn-6Eem2iuj1012QpQ" name="profundidad" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_0IMhE3-6Eem2iuj1012QpQ" name="precio" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_0IMhFH-6Eem2iuj1012QpQ" name="archivo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBl2a_EemXE9gMk7_GjQ" name="archivo" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <ownedAttribute xmi:id="_0IMhFX-6Eem2iuj1012QpQ" name="activo" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBmGa_EemXE9gMk7_GjQ" name="imagen" visibility="private"/>
-        <ownedAttribute xmi:id="_pnHBmWa_EemXE9gMk7_GjQ" name="dimension" visibility="private" type="_pnHByGa_EemXE9gMk7_GjQ" association="_pnHB22a_EemXE9gMk7_GjQ">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pnHBmma_EemXE9gMk7_GjQ" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pnHBm2a_EemXE9gMk7_GjQ" value="1"/>
-        </ownedAttribute>
-        <ownedOperation xmi:id="_pnHBrGa_EemXE9gMk7_GjQ" name="alta">
-          <ownedParameter xmi:id="_pnHBrWa_EemXE9gMk7_GjQ" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <ownedOperation xmi:id="_wcIfAH-6Eem2iuj1012QpQ" name="alta">
+          <ownedParameter xmi:id="_wcIfAX-6Eem2iuj1012QpQ" name="tDiseño">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5R_CSGzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Diseño/TDiseño?"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHBrma_EemXE9gMk7_GjQ" name="dimensiones" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-          <ownedParameter xmi:id="_pnHBr2a_EemXE9gMk7_GjQ" name="precio">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHBsGa_EemXE9gMk7_GjQ" name="descripcion">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHBsWa_EemXE9gMk7_GjQ" name="archivo">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHBsma_EemXE9gMk7_GjQ" name="imagen"/>
-          <ownedParameter xmi:id="_pnHBs2a_EemXE9gMk7_GjQ" name="id_diseño" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          <ownedParameter xmi:id="_wcIfAn-6Eem2iuj1012QpQ" name="id" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_pnHBtGa_EemXE9gMk7_GjQ" name="baja">
-          <ownedParameter xmi:id="_pnHBtWa_EemXE9gMk7_GjQ" name="id_diseño">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        <ownedOperation xmi:id="_wcIfA3-6Eem2iuj1012QpQ" name="baja">
+          <ownedParameter xmi:id="_wcIfBH-6Eem2iuj1012QpQ" name="idDiseño">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHBtma_EemXE9gMk7_GjQ" name="id" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+          <ownedParameter xmi:id="_wcIfBX-6Eem2iuj1012QpQ" name="id" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_pnHBt2a_EemXE9gMk7_GjQ" name="buscarId">
-          <ownedParameter xmi:id="_pnHBuGa_EemXE9gMk7_GjQ" name="id_diseño"/>
-          <ownedParameter xmi:id="_pnHBuWa_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ" direction="return"/>
+        <ownedOperation xmi:id="_wcIfBn-6Eem2iuj1012QpQ" name="modificar">
+          <ownedParameter xmi:id="_wcIfB3-6Eem2iuj1012QpQ" name="tDiseño">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5R_CSGzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Diseño/TDiseño?"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_wcIfCH-6Eem2iuj1012QpQ" name="idDiseño" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_pnHBuma_EemXE9gMk7_GjQ" name="buscarPalabraClave">
-          <ownedParameter xmi:id="_pnHBu2a_EemXE9gMk7_GjQ" name="palabraClave">
+        <ownedOperation xmi:id="_wcRo8H-6Eem2iuj1012QpQ" name="buscarPorId">
+          <ownedParameter xmi:id="_wcRo8X-6Eem2iuj1012QpQ" name="idDiseño">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_wcRo8n-6Eem2iuj1012QpQ" name="tDiseño" direction="return">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5R_CSGzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Diseño/TDiseño?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_wcRo83-6Eem2iuj1012QpQ" name="buscarPorPalabraClave">
+          <ownedParameter xmi:id="_wcRo9H-6Eem2iuj1012QpQ" name="palabraClave">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHBvGa_EemXE9gMk7_GjQ" name="diseño" type="_pnHBj2a_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHBvWa_EemXE9gMk7_GjQ" name="listar">
-          <ownedParameter xmi:id="_pnHBvma_EemXE9gMk7_GjQ" name="diseños" direction="return">
+          <ownedParameter xmi:id="_wcRo9X-6Eem2iuj1012QpQ" name="listaDiseños" direction="return">
             <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_pnHBv2a_EemXE9gMk7_GjQ" name="listarUsuario">
-          <ownedParameter xmi:id="_pnHBwGa_EemXE9gMk7_GjQ" name="id_usuario">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHBwWa_EemXE9gMk7_GjQ" name="listaDisUsu" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHBwma_EemXE9gMk7_GjQ" name="modificar">
-          <ownedParameter xmi:id="_pnHBw2a_EemXE9gMk7_GjQ" name="id_diseño">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHBxGa_EemXE9gMk7_GjQ" name="id" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
+        <ownedOperation xmi:id="_wcRo9n-6Eem2iuj1012QpQ" name="listarTodos">
+          <ownedParameter xmi:id="_wcRo93-6Eem2iuj1012QpQ" name="listaDiseños" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_pnHBxWa_EemXE9gMk7_GjQ" name="informar"/>
-        <ownedOperation xmi:id="_pnHBxma_EemXE9gMk7_GjQ" name="mostrarDiseño">
-          <ownedParameter xmi:id="_pnHBx2a_EemXE9gMk7_GjQ" name="id_diseño">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5ZcG24EemclOYRGq73cA" name="getId_diseño">
-          <ownedParameter xmi:id="_7R5ZcW24EemclOYRGq73cA" name="id_diseño" direction="return">
+        <ownedOperation xmi:id="_wcRo-H-6Eem2iuj1012QpQ" name="listarPorUsuario">
+          <ownedParameter xmi:id="_wcRo-X-6Eem2iuj1012QpQ" name="idUsuario">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5Zcm24EemclOYRGq73cA" name="setId_diseño">
-          <ownedParameter xmi:id="_7R5Zc224EemclOYRGq73cA" name="id">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5ZdG24EemclOYRGq73cA" name="getNombre">
-          <ownedParameter xmi:id="_7R5ZdW24EemclOYRGq73cA" name="nombre" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5Zdm24EemclOYRGq73cA" name="setNombre">
-          <ownedParameter xmi:id="_7R5Zd224EemclOYRGq73cA" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5ZeG24EemclOYRGq73cA" name="getPropietario">
-          <ownedParameter xmi:id="_7R5ZeW24EemclOYRGq73cA" name="propietario" type="_pnHA6Wa_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7R5Zem24EemclOYRGq73cA" name="setPropietario">
-          <ownedParameter xmi:id="_7R5Ze224EemclOYRGq73cA" name="propietario" type="_pnHA6Wa_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SDKcG24EemclOYRGq73cA" name="getDimensiones">
-          <ownedParameter xmi:id="_7SDKcW24EemclOYRGq73cA" name="dimensiones" type="_pnHByGa_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SDKcm24EemclOYRGq73cA" name="setDimensiones">
-          <ownedParameter xmi:id="_7SDKc224EemclOYRGq73cA" name="dimensiones" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SDKdG24EemclOYRGq73cA" name="getPrecio">
-          <ownedParameter xmi:id="_7SDKdW24EemclOYRGq73cA" name="precio" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SDKdm24EemclOYRGq73cA" name="setPrecio">
-          <ownedParameter xmi:id="_7SDKd224EemclOYRGq73cA" name="precio">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SDKeG24EemclOYRGq73cA" name="getPuntuacion">
-          <ownedParameter xmi:id="_7SDKeW24EemclOYRGq73cA" name="puntuacion" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SMUYG24EemclOYRGq73cA" name="setPuntuacion">
-          <ownedParameter xmi:id="_7SMUYW24EemclOYRGq73cA" name="puntuacion">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SMUYm24EemclOYRGq73cA" name="getDescripcion">
-          <ownedParameter xmi:id="_7SMUY224EemclOYRGq73cA" name="descripcion" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SMUZG24EemclOYRGq73cA" name="setDescripcion">
-          <ownedParameter xmi:id="_7SMUZW24EemclOYRGq73cA" name="descripcion">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SMUZm24EemclOYRGq73cA" name="setArchivo">
-          <ownedParameter xmi:id="_7SMUZ224EemclOYRGq73cA" name="archivo">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SWFYG24EemclOYRGq73cA" name="getImagen"/>
-        <ownedOperation xmi:id="_7SWFYW24EemclOYRGq73cA" name="setImagen">
-          <ownedParameter xmi:id="_7SWFYm24EemclOYRGq73cA" name="imagen"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_7SWFY224EemclOYRGq73cA" name="setActivo">
-          <ownedParameter xmi:id="_7SWFZG24EemclOYRGq73cA" name="activo">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          <ownedParameter xmi:id="_wcRo-n-6Eem2iuj1012QpQ" name="listaDiseños" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
-      <packagedElement xmi:type="uml:Class" xmi:id="_pnHByGa_EemXE9gMk7_GjQ" name="Dimension">
-        <ownedAttribute xmi:id="_pnHByWa_EemXE9gMk7_GjQ" name="largo" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHByma_EemXE9gMk7_GjQ" name="ancho" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBy2a_EemXE9gMk7_GjQ" name="altura" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHBzGa_EemXE9gMk7_GjQ" name="diseño" visibility="private" type="_pnHBj2a_EemXE9gMk7_GjQ" association="_pnHB22a_EemXE9gMk7_GjQ">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pnHBzWa_EemXE9gMk7_GjQ" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pnHBzma_EemXE9gMk7_GjQ" value="1"/>
-        </ownedAttribute>
-        <ownedOperation xmi:id="_pnHBz2a_EemXE9gMk7_GjQ" name="setLargo">
-          <ownedParameter xmi:id="_pnHB0Ga_EemXE9gMk7_GjQ" name="largo">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHB0Wa_EemXE9gMk7_GjQ" name="setAncho">
-          <ownedParameter xmi:id="_pnHB0ma_EemXE9gMk7_GjQ" name="ancho">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHB02a_EemXE9gMk7_GjQ" name="setAltura">
-          <ownedParameter xmi:id="_pnHB1Ga_EemXE9gMk7_GjQ" name="altura">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHB1Wa_EemXE9gMk7_GjQ" name="getLargo">
-          <ownedParameter xmi:id="_pnHB1ma_EemXE9gMk7_GjQ" name="largo" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHB12a_EemXE9gMk7_GjQ" name="getAncho">
-          <ownedParameter xmi:id="_pnHB2Ga_EemXE9gMk7_GjQ" name="ancho" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHB2Wa_EemXE9gMk7_GjQ" name="getAltura">
-          <ownedParameter xmi:id="_pnHB2ma_EemXE9gMk7_GjQ" name="altura" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-      </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_pnHB22a_EemXE9gMk7_GjQ" memberEnd="_pnHBmWa_EemXE9gMk7_GjQ _pnHBzGa_EemXE9gMk7_GjQ"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_pnHB3Ga_EemXE9gMk7_GjQ" name="Impresora">
       <eAnnotations xmi:id="_pnHB3Wa_EemXE9gMk7_GjQ" source="uml2.diagrams">
@@ -8068,143 +7889,80 @@
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHB9Ga_EemXE9gMk7_GjQ" x="17688" y="2376"/>
           </children>
           <element xsi:nil="true"/>
-          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_pnHB9Wa_EemXE9gMk7_GjQ" element="_pnHCPWa_EemXE9gMk7_GjQ" source="_pnHB32a_EemXE9gMk7_GjQ" target="_pnHB6ma_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHB9ma_EemXE9gMk7_GjQ" type="NameLabel">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHB92a_EemXE9gMk7_GjQ" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHB-Ga_EemXE9gMk7_GjQ" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHB-Wa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHB-ma_EemXE9gMk7_GjQ" type="ToMultiplicityLabel" element="_pnHCNma_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHB-2a_EemXE9gMk7_GjQ" type="ToMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHB_Ga_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHB_Wa_EemXE9gMk7_GjQ" type="ToRoleLabel" element="_pnHCNma_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHB_ma_EemXE9gMk7_GjQ" type="ToRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHB_2a_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCAGa_EemXE9gMk7_GjQ" type="FromMultiplicityLabel" element="_pnHCGWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCAWa_EemXE9gMk7_GjQ" type="FromMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCAma_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCA2a_EemXE9gMk7_GjQ" type="FromRoleLabel" element="_pnHCGWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCBGa_EemXE9gMk7_GjQ" type="FromRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCBWa_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCBma_EemXE9gMk7_GjQ" type="ToQualifierLabel" element="_pnHCNma_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCB2a_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCCGa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCCWa_EemXE9gMk7_GjQ" type="FromQualifierLabel" element="_pnHCGWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCCma_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCC2a_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCDGa_EemXE9gMk7_GjQ" type="ToConstraintLabel" element="_pnHCNma_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHCDWa_EemXE9gMk7_GjQ" type="ToConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCDma_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCD2a_EemXE9gMk7_GjQ" type="FromConstraintLabel" element="_pnHCGWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHCEGa_EemXE9gMk7_GjQ" type="FromConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHCEWa_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pnHCEma_EemXE9gMk7_GjQ" points="[1785, -1278, -3388, 429]$[3852, -1278, -1321, 429]"/>
-          </edges>
         </contents>
       </eAnnotations>
       <packagedElement xmi:type="uml:Class" xmi:id="_pnHCE2a_EemXE9gMk7_GjQ" name="Impresora">
-        <ownedAttribute xmi:id="_pnHCFGa_EemXE9gMk7_GjQ" name="Id_impresora" visibility="private">
+        <ownedAttribute xmi:id="_WOnCMH-6Eem2iuj1012QpQ" name="Id_impresora" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHCFWa_EemXE9gMk7_GjQ" name="nombre" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <ownedAttribute xmi:id="_WOnCMX-6Eem2iuj1012QpQ" name="material" visibility="private" type="_pnHCNWa_EemXE9gMk7_GjQ"/>
+        <ownedAttribute xmi:id="_WOnCMn-6Eem2iuj1012QpQ" name="alto" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_pnHCFma_EemXE9gMk7_GjQ" name="material" visibility="private" type="_pnHCNWa_EemXE9gMk7_GjQ"/>
-        <ownedAttribute xmi:id="_pnHCF2a_EemXE9gMk7_GjQ" name="tamaño" visibility="private" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-        <ownedAttribute xmi:id="_pnHCGGa_EemXE9gMk7_GjQ" name="usuario" visibility="private" type="_pnHA6Wa_EemXE9gMk7_GjQ"/>
-        <ownedAttribute xmi:id="_pnHCGWa_EemXE9gMk7_GjQ" name="materiales" visibility="private" type="_pnHCNWa_EemXE9gMk7_GjQ" association="_pnHCPWa_EemXE9gMk7_GjQ">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pnHCGma_EemXE9gMk7_GjQ" value="*"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pnHCG2a_EemXE9gMk7_GjQ" value="1"/>
+        <ownedAttribute xmi:id="_WOnCM3-6Eem2iuj1012QpQ" name="ancho" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
         </ownedAttribute>
-        <ownedOperation xmi:id="_pnHCKGa_EemXE9gMk7_GjQ" name="altaImpresora">
-          <ownedParameter xmi:id="_pnHCKWa_EemXE9gMk7_GjQ" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <ownedAttribute xmi:id="_WOnCNH-6Eem2iuj1012QpQ" name="profundidad" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_WOnCNX-6Eem2iuj1012QpQ" name="usuario" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_WOwzMH-6Eem2iuj1012QpQ" name="activo" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </ownedAttribute>
+        <ownedOperation xmi:id="_auJvoH-6Eem2iuj1012QpQ" name="alta">
+          <ownedParameter xmi:id="_auJvoX-6Eem2iuj1012QpQ" name="tImpresora">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5SR9NWzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Impresora/TImpresora?"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHCKma_EemXE9gMk7_GjQ" name="tamaño" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-          <ownedParameter xmi:id="_pnHCK2a_EemXE9gMk7_GjQ" name="material"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHCLGa_EemXE9gMk7_GjQ" name="bajaImpresora">
-          <ownedParameter xmi:id="_pnHCLWa_EemXE9gMk7_GjQ" name="id_impresora">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHCLma_EemXE9gMk7_GjQ" name="buscarID">
-          <ownedParameter xmi:id="_pnHCL2a_EemXE9gMk7_GjQ" name="id_impresora">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHCMGa_EemXE9gMk7_GjQ" name="buscarUsuario">
-          <ownedParameter xmi:id="_pnHCMWa_EemXE9gMk7_GjQ" name="id_usuario">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_pnHCMma_EemXE9gMk7_GjQ" name="listarImpresoras"/>
-        <ownedOperation xmi:id="_pnHCM2a_EemXE9gMk7_GjQ" name="modificarImpresora">
-          <ownedParameter xmi:id="_pnHCNGa_EemXE9gMk7_GjQ" name="id_impresora">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI1_kG25EemclOYRGq73cA" name="getId_impresora">
-          <ownedParameter xmi:id="_KI1_kW25EemclOYRGq73cA" name="id_impresora" direction="return">
+          <ownedParameter xmi:id="_auJvon-6Eem2iuj1012QpQ" name="id" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KI1_km25EemclOYRGq73cA" name="setId_impresora">
-          <ownedParameter xmi:id="_KI1_k225EemclOYRGq73cA" name="id">
+        <ownedOperation xmi:id="_auS5kH-6Eem2iuj1012QpQ" name="buscarId">
+          <ownedParameter xmi:id="_auS5kX-6Eem2iuj1012QpQ" name="idImpresora">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_auS5kn-6Eem2iuj1012QpQ" name="tImpresora" direction="return">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5SR9NWzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Impresora/TImpresora?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_auS5k3-6Eem2iuj1012QpQ" name="buscarPorUsuario">
+          <ownedParameter xmi:id="_auS5lH-6Eem2iuj1012QpQ" name="idUsuario">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_auS5lX-6Eem2iuj1012QpQ" name="tImpr" direction="return">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5SR9NWzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Impresora/TImpresora?"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_auS5ln-6Eem2iuj1012QpQ" name="listarTodo">
+          <ownedParameter xmi:id="_auS5l3-6Eem2iuj1012QpQ" name="listaImpresoras" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_auS5mH-6Eem2iuj1012QpQ" name="modificar">
+          <ownedParameter xmi:id="_auS5mX-6Eem2iuj1012QpQ" name="tImpresora">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_5SR9NWzNEemzvstBRjnMUw?3.%20Implementación/Negocio/Impresora/TImpresora?"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_auS5mn-6Eem2iuj1012QpQ" name="id" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KI1_lG25EemclOYRGq73cA" name="getNombre">
-          <ownedParameter xmi:id="_KI1_lW25EemclOYRGq73cA" name="nombre" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        <ownedOperation xmi:id="_auS5m3-6Eem2iuj1012QpQ" name="baja">
+          <ownedParameter xmi:id="_auS5nH-6Eem2iuj1012QpQ" name="idImpresora">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+          <ownedParameter xmi:id="_auS5nX-6Eem2iuj1012QpQ" name="id" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_KI1_lm25EemclOYRGq73cA" name="setNombre">
-          <ownedParameter xmi:id="_KI1_l225EemclOYRGq73cA" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI1_mG25EemclOYRGq73cA" name="getMaterial">
-          <ownedParameter xmi:id="_KI1_mW25EemclOYRGq73cA" name="material" type="_pnHCNWa_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI1_mm25EemclOYRGq73cA" name="setMaterial">
-          <ownedParameter xmi:id="_KI1_m225EemclOYRGq73cA" name="material" type="_pnHCNWa_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI1_nG25EemclOYRGq73cA" name="getTamaño">
-          <ownedParameter xmi:id="_KI1_nW25EemclOYRGq73cA" name="tamaño" type="_pnHByGa_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI_JgG25EemclOYRGq73cA" name="setTamaño">
-          <ownedParameter xmi:id="_KI_JgW25EemclOYRGq73cA" name="tamaño" type="_pnHByGa_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI_Jgm25EemclOYRGq73cA" name="getUsuario">
-          <ownedParameter xmi:id="_KI_Jg225EemclOYRGq73cA" name="usuario" type="_pnHA6Wa_EemXE9gMk7_GjQ" direction="return"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_KI_JhG25EemclOYRGq73cA" name="setUsuario">
-          <ownedParameter xmi:id="_KI_JhW25EemclOYRGq73cA" name="usuario" type="_pnHA6Wa_EemXE9gMk7_GjQ"/>
-        </ownedOperation>
-        <ownedOperation xmi:id="_o6-jwHJeEemyV5FHHbJ4OA" name="informar"/>
-        <ownedOperation xmi:id="_OQfdIHJpEemyV5FHHbJ4OA" name="mostrarImpresora"/>
-        <ownedOperation xmi:id="_scGDoHJqEemyV5FHHbJ4OA" name="pedirDatos"/>
       </packagedElement>
       <packagedElement xmi:type="uml:Enumeration" xmi:id="_pnHCNWa_EemXE9gMk7_GjQ" name="Material">
-        <ownedAttribute xmi:id="_pnHCNma_EemXE9gMk7_GjQ" name="impresora" visibility="private" type="_pnHCE2a_EemXE9gMk7_GjQ" association="_pnHCPWa_EemXE9gMk7_GjQ">
-          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_pnHCN2a_EemXE9gMk7_GjQ" value="1"/>
-          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_pnHCOGa_EemXE9gMk7_GjQ" value="1"/>
-        </ownedAttribute>
         <ownedLiteral xmi:id="_pnHCOWa_EemXE9gMk7_GjQ" name="PAL" classifier="_pnHCNWa_EemXE9gMk7_GjQ"/>
         <ownedLiteral xmi:id="_pnHCOma_EemXE9gMk7_GjQ" name="ABS" classifier="_pnHCNWa_EemXE9gMk7_GjQ"/>
         <ownedLiteral xmi:id="_pnHCO2a_EemXE9gMk7_GjQ" name="PETG" classifier="_pnHCNWa_EemXE9gMk7_GjQ"/>
         <ownedLiteral xmi:id="_pnHCPGa_EemXE9gMk7_GjQ" name="nylon" classifier="_pnHCNWa_EemXE9gMk7_GjQ"/>
       </packagedElement>
-      <packagedElement xmi:type="uml:Association" xmi:id="_pnHCPWa_EemXE9gMk7_GjQ" memberEnd="_pnHCGWa_EemXE9gMk7_GjQ _pnHCNma_EemXE9gMk7_GjQ"/>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_pnHCPma_EemXE9gMk7_GjQ" name="AvengerIs">
       <eAnnotations xmi:id="_pnHCP2a_EemXE9gMk7_GjQ" source="uml2.diagrams">
@@ -8281,19 +8039,6 @@
             <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCd2a_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
             <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHCeGa_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHCeWa_EemXE9gMk7_GjQ" x="24156" y="-1584" height="16338"/>
-          </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHCema_EemXE9gMk7_GjQ" element="_pnHByGa_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHCe2a_EemXE9gMk7_GjQ" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_pnHCfGa_EemXE9gMk7_GjQ" width="1296" height="1296"/>
-            </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCfWa_EemXE9gMk7_GjQ" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCfma_EemXE9gMk7_GjQ" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHCf2a_EemXE9gMk7_GjQ" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCgGa_EemXE9gMk7_GjQ" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCgWa_EemXE9gMk7_GjQ" type="OperationCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHCgma_EemXE9gMk7_GjQ" visible="false" type="SignalCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_pnHCg2a_EemXE9gMk7_GjQ" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHChGa_EemXE9gMk7_GjQ" x="32332" y="793"/>
           </children>
           <children xmi:type="umlnotation:UMLShape" xmi:id="_pnHChWa_EemXE9gMk7_GjQ" element="_pnHCE2a_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_pnHChma_EemXE9gMk7_GjQ" type="ImageCompartment">
@@ -8528,46 +8273,6 @@
             </children>
             <element xmi:type="uml:Association" href="Paquete%20en%20blanco.emx#_5GC5608hEemvZ7tfkGDXVg?1.%20Requisitos/Casos%20de%20Uso/Plataforma/%3CAssociation%3E?"/>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pnHDSWa_EemXE9gMk7_GjQ" points="[-80, 26, 211, -133]$[-239, 105, 52, -53]"/>
-          </edges>
-          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_pnHDSma_EemXE9gMk7_GjQ" element="_pnHB22a_EemXE9gMk7_GjQ" source="_pnHCb2a_EemXE9gMk7_GjQ" target="_pnHCema_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDS2a_EemXE9gMk7_GjQ" type="NameLabel">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDTGa_EemXE9gMk7_GjQ" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDTWa_EemXE9gMk7_GjQ" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pnHDTma_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDT2a_EemXE9gMk7_GjQ" type="ToMultiplicityLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDUGa_EemXE9gMk7_GjQ" type="ToMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDUWa_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDUma_EemXE9gMk7_GjQ" type="ToRoleLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDU2a_EemXE9gMk7_GjQ" type="ToRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDVGa_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDVWa_EemXE9gMk7_GjQ" type="FromMultiplicityLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDVma_EemXE9gMk7_GjQ" type="FromMultiplicity"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDV2a_EemXE9gMk7_GjQ" y="396"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDWGa_EemXE9gMk7_GjQ" type="FromRoleLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_pnHDWWa_EemXE9gMk7_GjQ" type="FromRole"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDWma_EemXE9gMk7_GjQ" y="-397"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDW2a_EemXE9gMk7_GjQ" type="ToQualifierLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHDXGa_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDXWa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDXma_EemXE9gMk7_GjQ" type="FromQualifierLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:SemanticListCompartment" xmi:id="_pnHDX2a_EemXE9gMk7_GjQ" type="QualifierCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDYGa_EemXE9gMk7_GjQ" y="-186"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDYWa_EemXE9gMk7_GjQ" type="ToConstraintLabel" element="_pnHBzGa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHDYma_EemXE9gMk7_GjQ" type="ToConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDY2a_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <children xmi:type="notation:DecorationNode" xmi:id="_pnHDZGa_EemXE9gMk7_GjQ" type="FromConstraintLabel" element="_pnHBmWa_EemXE9gMk7_GjQ">
-              <children xmi:type="notation:ListCompartment" xmi:id="_pnHDZWa_EemXE9gMk7_GjQ" type="FromConstraintCompartment"/>
-              <layoutConstraint xmi:type="notation:Location" xmi:id="_pnHDZma_EemXE9gMk7_GjQ" y="1058"/>
-            </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_pnHDZ2a_EemXE9gMk7_GjQ" points="[2116, -3652, -5477, -1032]$[6032, -3652, -1562, -1032]"/>
           </edges>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_pnHDaGa_EemXE9gMk7_GjQ" element="_pnHAGWa_EemXE9gMk7_GjQ" source="_pnHCvGa_EemXE9gMk7_GjQ" target="_pnHCpma_EemXE9gMk7_GjQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
             <children xmi:type="notation:DecorationNode" xmi:id="_pnHDaWa_EemXE9gMk7_GjQ" type="NameLabel">

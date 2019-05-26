@@ -2697,8 +2697,8 @@
           <ownedParameter xmi:id="_5R_CP2zNEemzvstBRjnMUw" name="palabraClave">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_5R_CQGzNEemzvstBRjnMUw" name="idDiseño" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          <ownedParameter xmi:id="_5R_CQGzNEemzvstBRjnMUw" name="listaDiseños" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CQWzNEemzvstBRjnMUw" name="listarTodos">
@@ -2725,25 +2725,27 @@
         <ownedAttribute xmi:id="_5R_CSmzNEemzvstBRjnMUw" name="nombre" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_5R_CS2zNEemzvstBRjnMUw" name="propietario" visibility="private">
-          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_5R_CTGzNEemzvstBRjnMUw" name="dimensiones" visibility="private">
-          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_5R_CTWzNEemzvstBRjnMUw" name="precio" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-        </ownedAttribute>
-        <ownedAttribute xmi:id="_5R_CTmzNEemzvstBRjnMUw" name="puntuacion" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-        </ownedAttribute>
         <ownedAttribute xmi:id="_5R_CT2zNEemzvstBRjnMUw" name="descripcion" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_5R_CS2zNEemzvstBRjnMUw" name="propietario" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_bQCcEH-3Eem2iuj1012QpQ" name="alto" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_txJm0H-3Eem2iuj1012QpQ" name="ancho" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_wmpNQH-3Eem2iuj1012QpQ" name="profundidad" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_5R_CTWzNEemzvstBRjnMUw" name="precio" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5R_CUGzNEemzvstBRjnMUw" name="archivo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_5R_CUWzNEemzvstBRjnMUw" name="imagen" visibility="private"/>
         <ownedAttribute xmi:id="_5R_CUmzNEemzvstBRjnMUw" name="activo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
         </ownedAttribute>
@@ -2767,46 +2769,6 @@
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_5R_CW2zNEemzvstBRjnMUw" name="getPropietario">
-          <ownedParameter xmi:id="_5R_CXGzNEemzvstBRjnMUw" name="propietario" direction="return">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CXWzNEemzvstBRjnMUw" name="setPropietario">
-          <ownedParameter xmi:id="_5R_CXmzNEemzvstBRjnMUw" name="propietario">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CX2zNEemzvstBRjnMUw" name="getDimensiones">
-          <ownedParameter xmi:id="_5R_CYGzNEemzvstBRjnMUw" name="dimensiones" direction="return">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CYWzNEemzvstBRjnMUw" name="setDimensiones">
-          <ownedParameter xmi:id="_5R_CYmzNEemzvstBRjnMUw" name="dimensiones">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CY2zNEemzvstBRjnMUw" name="getPrecio">
-          <ownedParameter xmi:id="_5R_CZGzNEemzvstBRjnMUw" name="precio" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CZWzNEemzvstBRjnMUw" name="setPrecio">
-          <ownedParameter xmi:id="_5R_CZmzNEemzvstBRjnMUw" name="precio">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CZ2zNEemzvstBRjnMUw" name="getPuntuacion">
-          <ownedParameter xmi:id="_5R_CaGzNEemzvstBRjnMUw" name="puntuacion" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_CaWzNEemzvstBRjnMUw" name="setPuntuacion">
-          <ownedParameter xmi:id="_5R_CamzNEemzvstBRjnMUw" name="puntuacion">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </ownedParameter>
-        </ownedOperation>
         <ownedOperation xmi:id="_5R_Ca2zNEemzvstBRjnMUw" name="getDescripcion">
           <ownedParameter xmi:id="_5R_CbGzNEemzvstBRjnMUw" name="descripcion" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
@@ -2815,6 +2777,56 @@
         <ownedOperation xmi:id="_5R_CbWzNEemzvstBRjnMUw" name="setDescripcion">
           <ownedParameter xmi:id="_5R_CbmzNEemzvstBRjnMUw" name="descripcion">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_5R_CW2zNEemzvstBRjnMUw" name="getPropietario">
+          <ownedParameter xmi:id="_5R_CXGzNEemzvstBRjnMUw" name="propietario" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_5R_CXWzNEemzvstBRjnMUw" name="setPropietario">
+          <ownedParameter xmi:id="_5R_CXmzNEemzvstBRjnMUw" name="propietario">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_HLt8sH-4Eem2iuj1012QpQ" name="getAlto">
+          <ownedParameter xmi:id="_XLdW4H-4Eem2iuj1012QpQ" name="alto" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_IW0d4H-4Eem2iuj1012QpQ" name="setAlto">
+          <ownedParameter xmi:id="_aPSUQH-4Eem2iuj1012QpQ" name="alto">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_JVZmAH-4Eem2iuj1012QpQ" name="getAncho">
+          <ownedParameter xmi:id="_cQ9REH-4Eem2iuj1012QpQ" name="ancho" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_KZ8zQH-4Eem2iuj1012QpQ" name="setAncho">
+          <ownedParameter xmi:id="_enZkAH-4Eem2iuj1012QpQ" name="ancho">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_LOZvAH-4Eem2iuj1012QpQ" name="getProfundidad">
+          <ownedParameter xmi:id="_gWtlgH-4Eem2iuj1012QpQ" name="profundidad" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_MK5zgH-4Eem2iuj1012QpQ" name="setProfundidad">
+          <ownedParameter xmi:id="_jXFmQH-4Eem2iuj1012QpQ" name="profundidad">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_5R_CY2zNEemzvstBRjnMUw" name="getPrecio">
+          <ownedParameter xmi:id="_5R_CZGzNEemzvstBRjnMUw" name="precio" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_5R_CZWzNEemzvstBRjnMUw" name="setPrecio">
+          <ownedParameter xmi:id="_5R_CZmzNEemzvstBRjnMUw" name="precio">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5R_Cb2zNEemzvstBRjnMUw" name="getArchivo">
@@ -2826,10 +2838,6 @@
           <ownedParameter xmi:id="_5R_CcmzNEemzvstBRjnMUw" name="archivo">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5R_Cc2zNEemzvstBRjnMUw" name="getImagen"/>
-        <ownedOperation xmi:id="_5R_CdGzNEemzvstBRjnMUw" name="setImagen">
-          <ownedParameter xmi:id="_5R_CdWzNEemzvstBRjnMUw" name="imagen"/>
         </ownedOperation>
         <ownedOperation xmi:id="_5R_CdmzNEemzvstBRjnMUw" name="getActivo">
           <ownedParameter xmi:id="_5R_Cd2zNEemzvstBRjnMUw" name="activo" direction="return">
@@ -3047,26 +3055,20 @@
         <ownedAttribute xmi:id="_5SR9NmzNEemzvstBRjnMUw" name="Id_impresora" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_5SR9N2zNEemzvstBRjnMUw" name="nombre" visibility="private">
-          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-        </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9OGzNEemzvstBRjnMUw" name="material" visibility="private">
           <type xmi:type="uml:Enumeration" href="Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
         </ownedAttribute>
-        <ownedAttribute xmi:id="_5SR9OWzNEemzvstBRjnMUw" name="tamaño" visibility="private">
-          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-          <qualifier xmi:id="_5SR9OmzNEemzvstBRjnMUw" name="material" visibility="private">
-            <type xmi:type="uml:Enumeration" href="platform:/resource/Anterior/Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
-          </qualifier>
-          <qualifier xmi:id="_5SR9O2zNEemzvstBRjnMUw" name="nombre" visibility="private">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </qualifier>
-          <qualifier xmi:id="_5SR9PGzNEemzvstBRjnMUw" name="Id_impresora" visibility="private">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
-          </qualifier>
+        <ownedAttribute xmi:id="_6B38IH-4Eem2iuj1012QpQ" name="alto" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_65KJcH-4Eem2iuj1012QpQ" name="ancho" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_8TnVQH-4Eem2iuj1012QpQ" name="profundidad" visibility="private">
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9PWzNEemzvstBRjnMUw" name="usuario" visibility="private">
-          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+          <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_5SR9PmzNEemzvstBRjnMUw" name="activo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
@@ -3081,16 +3083,6 @@
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_5SR9Q2zNEemzvstBRjnMUw" name="getNombre">
-          <ownedParameter xmi:id="_5SR9RGzNEemzvstBRjnMUw" name="nombre" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5SR9RWzNEemzvstBRjnMUw" name="setNombre">
-          <ownedParameter xmi:id="_5SR9RmzNEemzvstBRjnMUw" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-        </ownedOperation>
         <ownedOperation xmi:id="_5SR9R2zNEemzvstBRjnMUw" name="getMaterial">
           <ownedParameter xmi:id="_5SR9SGzNEemzvstBRjnMUw" name="material" direction="return">
             <type xmi:type="uml:Enumeration" href="Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
@@ -3101,24 +3093,14 @@
             <type xmi:type="uml:Enumeration" href="Paquete%20en%20blanco1.emx#_pnHCNWa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Impresora/Material?"/>
           </ownedParameter>
         </ownedOperation>
-        <ownedOperation xmi:id="_5SR9S2zNEemzvstBRjnMUw" name="getTamaño">
-          <ownedParameter xmi:id="_5SR9TGzNEemzvstBRjnMUw" name="tamaño" direction="return">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-          </ownedParameter>
-        </ownedOperation>
-        <ownedOperation xmi:id="_5SR9TWzNEemzvstBRjnMUw" name="setTamaño">
-          <ownedParameter xmi:id="_5SR9TmzNEemzvstBRjnMUw" name="tamaño">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHByGa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Dimension?"/>
-          </ownedParameter>
-        </ownedOperation>
         <ownedOperation xmi:id="_5SR9T2zNEemzvstBRjnMUw" name="getUsuario">
           <ownedParameter xmi:id="_5SR9UGzNEemzvstBRjnMUw" name="usuario" direction="return">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5SR9UWzNEemzvstBRjnMUw" name="setUsuario">
           <ownedParameter xmi:id="_5SR9UmzNEemzvstBRjnMUw" name="usuario">
-            <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_5SR9U2zNEemzvstBRjnMUw" name="getActivo">
@@ -3129,6 +3111,36 @@
         <ownedOperation xmi:id="_5SR9VWzNEemzvstBRjnMUw" name="setActivo">
           <ownedParameter xmi:id="_5SR9VmzNEemzvstBRjnMUw" name="activo">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH0uoH-5Eem2iuj1012QpQ" name="getAlto">
+          <ownedParameter xmi:id="_lH0uoX-5Eem2iuj1012QpQ" name="alto" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH0uon-5Eem2iuj1012QpQ" name="setAlto">
+          <ownedParameter xmi:id="_lH0uo3-5Eem2iuj1012QpQ" name="alto">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH0upH-5Eem2iuj1012QpQ" name="getAncho">
+          <ownedParameter xmi:id="_lH0upX-5Eem2iuj1012QpQ" name="ancho" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH0upn-5Eem2iuj1012QpQ" name="setAncho">
+          <ownedParameter xmi:id="_lH0up3-5Eem2iuj1012QpQ" name="ancho">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH-foH-5Eem2iuj1012QpQ" name="getProfundidad">
+          <ownedParameter xmi:id="_lH-foX-5Eem2iuj1012QpQ" name="profundidad" direction="return">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
+          </ownedParameter>
+        </ownedOperation>
+        <ownedOperation xmi:id="_lH-fon-5Eem2iuj1012QpQ" name="setProfundidad">
+          <ownedParameter xmi:id="_lH-fo3-5Eem2iuj1012QpQ" name="profundidad">
+            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#float"/>
           </ownedParameter>
         </ownedOperation>
       </packagedElement>
@@ -5192,8 +5204,8 @@
           <ownedParameter xmi:id="_-cZRsGzNEemzvstBRjnMUw" name="palabraClave">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_-cZRsWzNEemzvstBRjnMUw" name="idDiseño" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+          <ownedParameter xmi:id="_-cZRsWzNEemzvstBRjnMUw" name="listaDiseños" direction="return">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_-cZRsmzNEemzvstBRjnMUw" name="listarTodos">
