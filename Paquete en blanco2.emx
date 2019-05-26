@@ -5447,7 +5447,7 @@
           </edges>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Interface" xmi:id="_-cjCo2zNEemzvstBRjnMUw" name="DAOImpersora" clientDependency="_-cjCuWzNEemzvstBRjnMUw _RSa0wGzREemzvstBRjnMUw _uj_mcG2XEemclOYRGq73cA">
+      <packagedElement xmi:type="uml:Interface" xmi:id="_-cjCo2zNEemzvstBRjnMUw" name="DAOImpresora" clientDependency="_-cjCuWzNEemzvstBRjnMUw _RSa0wGzREemzvstBRjnMUw _uj_mcG2XEemclOYRGq73cA">
         <ownedOperation xmi:id="_-cjCpGzNEemzvstBRjnMUw" name="alta">
           <ownedParameter xmi:id="_-cjCpWzNEemzvstBRjnMUw" name="tImpresora" type="_5SR9NWzNEemzvstBRjnMUw"/>
           <ownedParameter xmi:id="_-cjCpmzNEemzvstBRjnMUw" name="id" direction="return">
