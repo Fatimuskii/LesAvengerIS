@@ -7577,7 +7577,7 @@
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_pnHA72a_EemXE9gMk7_GjQ" name="fechaNacimiento" visibility="private">
-          <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_pnHA8Wa_EemXE9gMk7_GjQ" name="listaUsuarios" visibility="private">
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
@@ -7589,25 +7589,22 @@
           <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_lc6XEHnVEemgxKNsk_Omug" name="fechaCaducidad" visibility="private">
-          <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </ownedAttribute>
         <ownedAttribute xmi:id="_g96A8H4OEemYy-gvfumczg" name="activo" visibility="private">
           <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
         </ownedAttribute>
         <ownedOperation xmi:id="_pnHA-Ga_EemXE9gMk7_GjQ" name="altaUsuario">
-          <ownedParameter xmi:id="_pnHA-Wa_EemXE9gMk7_GjQ" name="idUsuario" direction="return">
+          <ownedParameter xmi:id="_pnHA-Wa_EemXE9gMk7_GjQ" name="id" direction="return">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHA-ma_EemXE9gMk7_GjQ" name="nombre">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
-          </ownedParameter>
-          <ownedParameter xmi:id="_pnHA-2a_EemXE9gMk7_GjQ" name="apellidos">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+          <ownedParameter xmi:id="_scF-8IJVEem-l_NXtuCMMA" name="usuario">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_sH8a0GzTEemzvstBRjnMUw?3.%20Implementación/Negocio/Usuario/TUsuario?"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHA_Ga_EemXE9gMk7_GjQ" name="bajaUsuario">
           <ownedParameter xmi:id="_pnHA_Wa_EemXE9gMk7_GjQ" name="bajaOK" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.Integer%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
           <ownedParameter xmi:id="_pnHA_ma_EemXE9gMk7_GjQ" name="idUsuario">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
@@ -7615,12 +7612,16 @@
         </ownedOperation>
         <ownedOperation xmi:id="_pnHA_2a_EemXE9gMk7_GjQ" name="modificarUsuario">
           <ownedParameter xmi:id="_pnHBAGa_EemXE9gMk7_GjQ" name="modificarOK" direction="return">
-            <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_sH8a0GzTEemzvstBRjnMUw?3.%20Implementación/Negocio/Usuario/TUsuario?"/>
           </ownedParameter>
-          <ownedParameter xmi:id="_pnHBAWa_EemXE9gMk7_GjQ" name="idUsuario"/>
+          <ownedParameter xmi:id="_pnHBAWa_EemXE9gMk7_GjQ" name="usuario">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_sH8a0GzTEemzvstBRjnMUw?3.%20Implementación/Negocio/Usuario/TUsuario?"/>
+          </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBAma_EemXE9gMk7_GjQ" name="buscarIdUsuario">
-          <ownedParameter xmi:id="_pnHBA2a_EemXE9gMk7_GjQ" name="usuarioBuscado" type="_pnHA6Wa_EemXE9gMk7_GjQ" direction="return"/>
+          <ownedParameter xmi:id="_pnHBA2a_EemXE9gMk7_GjQ" name="usuarioBuscado" direction="return">
+            <type xmi:type="uml:Class" href="Paquete%20en%20blanco2.emx#_sH8a0GzTEemzvstBRjnMUw?3.%20Implementación/Negocio/Usuario/TUsuario?"/>
+          </ownedParameter>
           <ownedParameter xmi:id="_pnHBBGa_EemXE9gMk7_GjQ" name="idUsuario">
             <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Integer"/>
           </ownedParameter>
@@ -7657,7 +7658,7 @@
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBEGa_EemXE9gMk7_GjQ" name="getFechaNacimiento">
           <ownedParameter xmi:id="_pnHBEWa_EemXE9gMk7_GjQ" name="Parameter1" direction="return">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBFWa_EemXE9gMk7_GjQ" name="setIdUsuario">
@@ -7686,7 +7687,9 @@
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBGma_EemXE9gMk7_GjQ" name="setFechaNacimiento">
-          <ownedParameter xmi:id="_nG6lUHnWEemgxKNsk_Omug" name="fechaN"/>
+          <ownedParameter xmi:id="_nG6lUHnWEemgxKNsk_Omug" name="fechaN">
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+          </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_pnHBHWa_EemXE9gMk7_GjQ" name="baja"/>
         <ownedOperation xmi:id="_pnHBHma_EemXE9gMk7_GjQ" name="informar"/>
@@ -7710,7 +7713,7 @@
         </ownedOperation>
         <ownedOperation xmi:id="_TIq4wHnXEemgxKNsk_Omug" name="getFechaCaducidad">
           <ownedParameter xmi:id="_heypwHnXEemgxKNsk_Omug" name="Parameter1" direction="return">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_nG8IkHnYEemgxKNsk_Omug" name="setTitularCuenta">
@@ -7725,7 +7728,7 @@
         </ownedOperation>
         <ownedOperation xmi:id="_qb218HnYEemgxKNsk_Omug" name="setFechaCaducidad">
           <ownedParameter xmi:id="_Ahq2gHnZEemgxKNsk_Omug" name="fechaCaducidad">
-            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.Date%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
+            <type xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.lang.String%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
           </ownedParameter>
         </ownedOperation>
         <ownedOperation xmi:id="_8Z9HAHtIEemgxKNsk_Omug" name="getEmail">
