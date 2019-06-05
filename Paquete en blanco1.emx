@@ -11199,7 +11199,7 @@
           <children xmi:type="notation:ListCompartment" xmi:id="_p-5cMH_CEemMP88eCcFeRA" type="RequiredInterfaceListCompartment"/>
           <children xmi:type="notation:ListCompartment" xmi:id="_p-5cMX_CEemMP88eCcFeRA" type="ProvidedInterfaceListCompartment"/>
           <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_p-5cMn_CEemMP88eCcFeRA" visible="false" type="StructureCompartment"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p-yHcX_CEemMP88eCcFeRA" x="2032" y="42"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_p-yHcX_CEemMP88eCcFeRA" x="-3937" y="-127"/>
         </children>
         <children xmi:type="umlnotation:UMLComponent" xmi:id="_xpty0H_CEemMP88eCcFeRA" element="_xpnsMH_CEemMP88eCcFeRA" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
           <children xmi:type="notation:DecorationNode" xmi:id="_xpty0n_CEemMP88eCcFeRA" type="ImageCompartment">
