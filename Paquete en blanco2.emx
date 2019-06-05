@@ -871,7 +871,9 @@
             </ownedParameter>
           </ownedOperation>
         </packagedElement>
-        <packagedElement xmi:type="uml:Class" xmi:id="_N0Lt8Gy-EemQ2MqACQkTjg" name="GUIBajaUsuario"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_N0Lt8Gy-EemQ2MqACQkTjg" name="GUIBajaUsuario">
+          <ownedOperation xmi:id="_vWhUQIctEemEaO-dLNU6UA" name="GUIBajaUsuario"/>
+        </packagedElement>
         <packagedElement xmi:type="uml:Class" xmi:id="_P1PmwGy-EemQ2MqACQkTjg" name="GUIBuscarporIdUsuario"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_ZV6EsGy-EemQ2MqACQkTjg" name="GUIListarUsuarios" clientDependency="_xI_X0HtCEemgxKNsk_Omug">
           <ownedAttribute xmi:id="_Rm0nAHtBEemgxKNsk_Omug" name="content" visibility="private">
@@ -973,6 +975,7 @@
             </ownedParameter>
             <ownedParameter xmi:id="_t5ivMIJnEem-l_NXtuCMMA" name="res" type="_sH8a0GzTEemzvstBRjnMUw"/>
           </ownedOperation>
+          <ownedOperation xmi:id="_ig7AAIcbEemEaO-dLNU6UA" name="actionPerformed"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Dependency" xmi:id="_xUbz0Hs3EemgxKNsk_Omug" supplier="_Ell3cGy-EemQ2MqACQkTjg" client="_ALjVEGy-EemQ2MqACQkTjg"/>
         <packagedElement xmi:type="uml:Class" xmi:id="_Co9A4Hs-EemgxKNsk_Omug" name="GUIPerfilUsuario" clientDependency="_txtS8HtCEemgxKNsk_Omug">
@@ -4254,7 +4257,9 @@
             </edges>
           </contents>
         </eAnnotations>
-        <packagedElement xmi:type="uml:Class" xmi:id="_kFbV4GzTEemzvstBRjnMUw" name="SAUsuarioImp" clientDependency="_1dB64GzTEemzvstBRjnMUw _DB-GkGzUEemzvstBRjnMUw _CQpAIG2sEemclOYRGq73cA _CrwO0G2sEemclOYRGq73cA"/>
+        <packagedElement xmi:type="uml:Class" xmi:id="_kFbV4GzTEemzvstBRjnMUw" name="SAUsuarioImp" clientDependency="_1dB64GzTEemzvstBRjnMUw _DB-GkGzUEemzvstBRjnMUw _CQpAIG2sEemclOYRGq73cA _CrwO0G2sEemclOYRGq73cA">
+          <ownedOperation xmi:id="_75KWcIciEemEaO-dLNU6UA" name="TUsuario"/>
+        </packagedElement>
         <packagedElement xmi:type="uml:Interface" xmi:id="_qlE54GzTEemzvstBRjnMUw" name="SAUsuario" clientDependency="_3Ot68GzTEemzvstBRjnMUw _DVLmUG2sEemclOYRGq73cA _p_i-MHGlEemyV5FHHbJ4OA">
           <ownedOperation xmi:id="_sOJeUG_lEemuwNu9mlOLUw" name="altaUsuario">
             <ownedParameter xmi:id="_sOJeUW_lEemuwNu9mlOLUw" name="idUsuario" direction="return">
@@ -4428,6 +4433,7 @@
               <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
             </ownedParameter>
           </ownedOperation>
+          <ownedOperation xmi:id="_oojBYIciEemEaO-dLNU6UA" name="TUsuario"/>
         </packagedElement>
         <packagedElement xmi:type="uml:Realization" xmi:id="_1dB64GzTEemzvstBRjnMUw" supplier="_qlE54GzTEemzvstBRjnMUw" client="_kFbV4GzTEemzvstBRjnMUw"/>
         <packagedElement xmi:type="uml:Dependency" xmi:id="_3Ot68GzTEemzvstBRjnMUw" supplier="_sH8a0GzTEemzvstBRjnMUw" client="_qlE54GzTEemzvstBRjnMUw"/>
