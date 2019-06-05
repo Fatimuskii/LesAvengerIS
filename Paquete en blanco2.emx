@@ -4901,7 +4901,7 @@
           <supplier xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=java.util.ArrayList%5Bproject%5Eid=Les_AvengerIs%5D$uml.Class"/>
         </packagedElement>
       </packagedElement>
-      <packagedElement xmi:type="uml:Package" xmi:id="_eedGUGzTEemzvstBRjnMUw" name="PedidoImpresion2">
+      <packagedElement xmi:type="uml:Package" xmi:id="_eedGUGzTEemzvstBRjnMUw" name="PedidoImpresion">
         <eAnnotations xmi:id="_eedGUWzTEemzvstBRjnMUw" source="uml2.diagrams">
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_-M_fMGzUEemzvstBRjnMUw" type="Class" name="SAPedidoImpresion">
             <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_AQuRgGzVEemzvstBRjnMUw" element="_AQRlkGzVEemzvstBRjnMUw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label" useClassifierShape="true">

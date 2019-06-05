@@ -1922,6 +1922,16 @@
           <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_5F5IWk8hEemvZ7tfkGDXVg" value="1"/>
           <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_5F5IW08hEemvZ7tfkGDXVg" value="1"/>
         </ownedAttribute>
+        <ownedAttribute xmi:id="_XYTYcYetEem85NoAL_TeJQ" name="usuario2" visibility="private" association="_XYTYcIetEem85NoAL_TeJQ">
+          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHA6Wa_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario?"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_XYTYc4etEem85NoAL_TeJQ" value="1"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_XYTYcoetEem85NoAL_TeJQ" value="1"/>
+        </ownedAttribute>
+        <ownedAttribute xmi:id="_lA1DoIetEem85NoAL_TeJQ" name="diseño" visibility="private" association="_lArSoIetEem85NoAL_TeJQ">
+          <type xmi:type="uml:Class" href="Paquete%20en%20blanco1.emx#_pnHBj2a_EemXE9gMk7_GjQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Diseño?"/>
+          <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_lA1DooetEem85NoAL_TeJQ" value="*"/>
+          <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_lA1DoYetEem85NoAL_TeJQ" value="1"/>
+        </ownedAttribute>
         <ownedOperation xmi:id="_5F5IXE8hEemvZ7tfkGDXVg" name="Plataforma"/>
         <ownedOperation xmi:id="_5F5IXU8hEemvZ7tfkGDXVg" name="añadirElemCarrito"/>
         <ownedOperation xmi:id="_5F5IXk8hEemvZ7tfkGDXVg" name="eliminarElemCarrito"/>
@@ -1997,6 +2007,14 @@
       <packagedElement xmi:type="uml:Association" xmi:id="_5GC58E8hEemvZ7tfkGDXVg" memberEnd="_5F5IdE8hEemvZ7tfkGDXVg _5GC5VU8hEemvZ7tfkGDXVg"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_5GC58U8hEemvZ7tfkGDXVg" memberEnd="_5F5Iek8hEemvZ7tfkGDXVg _5GC5WE8hEemvZ7tfkGDXVg"/>
       <packagedElement xmi:type="uml:Association" xmi:id="_5GC58k8hEemvZ7tfkGDXVg" memberEnd="_5F5IVk8hEemvZ7tfkGDXVg _5GC5W08hEemvZ7tfkGDXVg"/>
+      <packagedElement xmi:type="uml:Association" xmi:id="_XYTYcIetEem85NoAL_TeJQ">
+        <memberEnd href="#_XYTYcYetEem85NoAL_TeJQ?1.%20Requisitos/Casos%20de%20Uso/Plataforma/Plataforma/usuario2?"/>
+        <memberEnd href="Paquete%20en%20blanco1.emx#_XYdJcIetEem85NoAL_TeJQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Usuario/Usuario/plataforma?"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Association" xmi:id="_lArSoIetEem85NoAL_TeJQ">
+        <memberEnd href="#_lA1DoIetEem85NoAL_TeJQ?1.%20Requisitos/Casos%20de%20Uso/Plataforma/Plataforma/diseño?"/>
+        <memberEnd href="Paquete%20en%20blanco1.emx#_lA1Do4etEem85NoAL_TeJQ?2.%20Análisis%20y%20Diseño/Diagrama%20de%20clases/Diseño/Diseño/plataforma?"/>
+      </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_tyyNQFO_Eem0neqgAT71PQ" name="Diseño">
       <eAnnotations xmi:id="_tyyNQVO_Eem0neqgAT71PQ" source="uml2.diagrams">
